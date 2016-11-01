@@ -1,0 +1,29 @@
+/* top band */
+
+.topband div div div h2{
+  text-align: center;
+}
+
+.topband div div div h3{
+  text-align: center;
+}
+
+/* BODY */
+
+body{
+  background-color: #eee;
+}
+
+img {
+	max-width: 100%;
+	max-height: auto;
+}
+
+/*CONTACT*/
+
+.backback{
+  background-image: url('../img/background.jpg');
+  background-repeat: no-repeat;
+}
+
+/* EQUIPE */
