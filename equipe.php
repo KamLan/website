@@ -70,7 +70,7 @@
 
     <!-- Equipe medicale block -->
 
-    <div class="container text-center">
+    <div class="container">
       <h3><strong>EQUIPE MEDICALE</strong></h3><br>
       <div class="row">
         <div class="col-sm-6">
@@ -176,6 +176,7 @@
                 </p>
             </div>
         </div>
+
         <div class="col-sm-6">
           <a href="" onclick="bascule('3'); return false;">
             <p>Docteur Irina HERGHEA</p>
