@@ -74,9 +74,11 @@
       <h3><strong>EQUIPE MEDICALE</strong></h3><br>
       <div class="row">
         <div class="col-sm-6">
+          <a href="" onclick="bascule('1'); return false;">
             <p><strong>Docteur Gérard BARRAL</strong></p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
-            <div class="ContenuCache" id="GB">
+          </a>
+            <div class="ContenuCache" style="display:none;" id="1">
               <h2>Diplômes :</h2>
                 <p>
                   Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'... depuis .... <br>
@@ -117,9 +119,11 @@
 
         </div>
         <div class="col-sm-6">
-          <p>Docteur Franck JACQUOT</p>
-          <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
-            <div class="ContenuCache">
+          <a href="" onclick="bascule('2'); return false;">
+            <p>Docteur Franck JACQUOT</p>
+            <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
+          </a>
+            <div class="ContenuCache" style="display:none;" id="2">
               <h2>Diplômes :</h2>
                 <p>
                   Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'10630 depuis 12/1991 <br>
@@ -173,16 +177,20 @@
             </div>
         </div>
         <div class="col-sm-6">
-          <p>Docteur Irina HERGHEA</p>
-          <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
-            <div class="ContenuCache">
+          <a href="" onclick="bascule('3'); return false;">
+            <p>Docteur Irina HERGHEA</p>
+            <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
+          </a>
+            <div class="ContenuCache" style="display:none;" id="3">
 
             </div>
         </div>
         <div class="col-sm-6">
-          <p>Marlène BARRAL</p>
-          <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
-            <div class="ContenuCache">
+          <a href="" onclick="bascule('4'); return false;">
+            <p>Marlène BARRAL</p>
+            <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
+          </a>
+            <div class="ContenuCache" style="display:none;" id="4">
               <h2>Diplômes</h2>
                 <p>
                   Inscrite au Tableau du Conseil Départemental de l'Ordre du Rhône n' <br>
@@ -209,6 +217,19 @@
         </div>
       </div>
     </div><br>
+
+    <script language="javascript" type="text/javascript">
+      function bascule(elem)
+         {
+           etat=document.getElementById(elem).style.display;
+           if(etat=="none"){
+           document.getElementById(elem).style.display="block";
+           }
+           else{
+           document.getElementById(elem).style.display="none";
+           }
+        }
+    </script>
 
   </body>
 </html>
