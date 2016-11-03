@@ -76,7 +76,7 @@
       <div class="row">
         <div class="col-sm-6">
             <div class="panel-heading">
-              <h3><strong>CABINET :</strong></h3>
+              <h3><strong><img src="img/room.png" alt="" />CABINET :</strong></h3>
             </div>
             <div class="panel-body">
               <h3> Locaux: </h3>

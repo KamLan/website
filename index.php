@@ -79,7 +79,7 @@
           </div>
           <div class="col-sm-6">
               <div class="panel-heading">
-                <h2>Accueil</h2>
+                <h2><strong><img src="img/house.png" alt="" /> ACCUEIL</strong></h2>
               </div>
               <div class="panel-body">
                 <h3></h3>

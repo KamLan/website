@@ -75,7 +75,7 @@
       <div class="row">
         <div class="col-sm-12">
             <div class="panel-heading">
-              <h3><strong>INFORMATIONS :</strong></h3>
+              <h3><strong><img src="img/information-point.png" alt="" />INFORMATIONS :</strong></h3>
             </div>
             <div class="panel-body">
               <h3> Médicale : </h3>

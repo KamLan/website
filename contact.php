@@ -76,7 +76,7 @@
           <div class="row">
             <div class="col-sm-12">
                 <div class="panel-heading">
-                  <h2><strong>Nous joindre :</strong></h2>
+                  <h2><strong><img src="img/fax.png" alt="" /> Nous joindre :</strong></h2>
                 </div>
                 <div class="panel-body">
                   <h3> Par téléphone : </h3>
@@ -106,7 +106,7 @@
           <div class="parallax-container col-sm-12" data-parallax="scroll" data-image-src="img/wood.jpg" ></div>
             <div class="col-sm-12">
                 <div class="panel-heading">
-                  <h2><strong>Accès :</strong></h2>
+                  <h2><strong> <strong><img src="img/maps-and-flags.png" alt="" /> Accès :</strong></h2>
                 </div>
                 <div class="panel-body col-sm-6">
                   <h3>Adresse</h3>
