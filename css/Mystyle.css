@@ -1,5 +1,18 @@
-/* top band */
+/*FONT FACE*/
+@font-face {
+    font-family: 'champagne et limousine';
+    src: url('../fonts/champagne/Champagne%20%26%20Limousines.ttf');
+}
 
+@font-face {
+    font-family: 'bebas neue';
+    src: url('../fonts/bebas/BebasNeue.otf');
+}
+
+/* top band */
+.topband{
+  font-family: "bebas neue";
+}
 .topband div div div h2{
   text-align: center;
 }
@@ -8,10 +21,16 @@
   text-align: center;
 }
 
+nav{
+  font-family: "bebas neue";
+}
+
 /* BODY */
 
 body{
   background-color: #eee;
+  font-size: 20px;
+  font-family: "champagne et limousine", "Comic Sans";
 }
 
 img {
