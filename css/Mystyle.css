@@ -33,10 +33,11 @@ body{
   font-family: "champagne et limousine", "Comic Sans";
 }
 
-img {
+.col-sm-6 img {
 	max-width: 100%;
 	max-height: auto;
 }
+/*Parallax*/
 
 /*CONTACT*/
 
@@ -46,3 +47,6 @@ img {
 }
 
 /* EQUIPE */
+
+
+/*CABINET*/

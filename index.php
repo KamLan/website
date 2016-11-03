@@ -8,6 +8,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/Mystyle.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/parallax.js"></script>
   </head>
 
   <body>
@@ -69,36 +71,38 @@
     </header>
 
     <!-- Home block -->
+    <section>
+      <div class="container col-sm-12">
+        <div class="row">
+          <div class="col-sm-6">
+            <img src="img\landscape.jpg" alt="" />
+          </div>
+          <div class="col-sm-6">
+              <div class="panel-heading">
+                <h2>Accueil</h2>
+              </div>
+              <div class="panel-body">
+                <h3></h3>
+                <p>
+                  Le cabinet de gynécologie obstétrique et échographie des Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et M. BARRAL assure la prise en charge de consulations d'obstétrique, de gynécologie médicale,
+                  de gynécologie chirurgicale, d'échographie gynécologique et obstétricale ainsi que la préparation à l'accouchement, la rééducation périnéale et le suivi à domicile des grossesses pathologiques.
+                  Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge dans le service de gynécologie obstétrique du
+                  <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> ou au
+                  <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html">Centre Hospitalier Lyon-Sud</a>.
+                </p>
+                <p>
 
-    <div class="container col-sm-12">
-      <div class="row">
-        <div class="col-sm-6">
-          <img src="img\landscape.jpg" alt="" />
+                </p>
+                <h3></h3>
+                <p>
+
+                </p>
+              </div>
+          </div>
         </div>
-        <div class="col-sm-6">
-            <div class="panel-heading">
-              <h2>Accueil</h2>
-            </div>
-            <div class="panel-body">
-              <h3></h3>
-              <p>
-                Le cabinet de gynécologie obstétrique et échographie des Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et M. BARRAL assure la prise en charge de consulations d'obstétrique, de gynécologie médicale,
-                de gynécologie chirurgicale, d'échographie gynécologique et obstétricale ainsi que la préparation à l'accouchement, la rééducation périnéale et le suivi à domicile des grossesses pathologiques.
-                Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge dans le service de gynécologie obstétrique du
-                <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> ou au
-                <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html">Centre Hospitalier Lyon-Sud</a>.
-              </p>
-              <p>
+      </div><br><br>
+    </section>
 
-              </p>
-              <h3></h3>
-              <p>
-
-              </p>
-            </div>
-        </div>
-      </div>
-    </div><br><br>
 
   </body>
 </html>
