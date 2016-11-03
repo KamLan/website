@@ -38,13 +38,12 @@ body{
 	max-height: auto;
 }
 /*Parallax*/
-
+.parallax-container {
+    min-height: 400px;
+    background: transparent;
+}
 /*CONTACT*/
 
-.backback{
-  background-image: url('../img/background.jpg');
-  background-repeat: no-repeat;
-}
 
 /* EQUIPE */
 

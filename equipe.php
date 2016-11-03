@@ -178,7 +178,7 @@
                 </p>
             </div>
         </div>
-
+        
         <div class="col-sm-6">
           <a href="" onclick="bascule('3'); return false;">
             <p>Docteur Irina HERGHEA</p>

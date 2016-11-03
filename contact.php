@@ -74,7 +74,7 @@
 
         <div class="container backback col-sm-12">
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-12">
                 <div class="panel-heading">
                   <h2><strong>Nous joindre :</strong></h2>
                 </div>
@@ -103,7 +103,8 @@
                   </p>
                 </div>
             </div>
-            <div class="col-sm-6">
+          <div class="parallax-container col-sm-12" data-parallax="scroll" data-image-src="img/wood.jpg" ></div>
+            <div class="col-sm-12">
                 <div class="panel-heading">
                   <h2><strong>Accès :</strong></h2>
                 </div>
@@ -121,7 +122,7 @@
                   </p>
                 </div>
                 <div class="panel-body col-sm-6">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.9509877228866!2d4.801712315573599!3d45.732077723549814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebdde053f789%3A0x249166d3c241cf69!2s12+Chemin+de+la+Croix+Pivort%2C+69110+Sainte-Foy-l%C3%A8s-Lyon!5e0!3m2!1sfr!2sfr!4v1477481884890" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.9509877228866!2d4.801712315573599!3d45.732077723549814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebdde053f789%3A0x249166d3c241cf69!2s12+Chemin+de+la+Croix+Pivort%2C+69110+Sainte-Foy-l%C3%A8s-Lyon!5e0!3m2!1sfr!2sfr!4v1477481884890" width="800" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
           </div>
