@@ -43,31 +43,32 @@
       </div>
 
       <!-- responsive navbar -->
-
-      <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.php">
-              <i class="fa fa-medkit fa-lg" aria-hidden="true"></i>
-            </a>
+      <section>
+        <nav class="navbar navbar-inverse">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.php">
+                <i class="fa fa-medkit fa-lg" aria-hidden="true"></i>
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="index.php">Accueil</a></li>
+                <li class=""><a href="contact.php">Contact</a></li>
+                <li class=""><a href="cabinet.php">Cabinet</a></li>
+                <li class=""><a href="equipe.php">Equipe médicale</a></li>
+                <li class=""><a href="information.php">Informations</a></li>
+              </ul>
+            </div>
           </div>
-          <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav">
-              <li class="active"><a href="index.php">Accueil</a></li>
-              <li class=""><a href="contact.php">Contact</a></li>
-              <li class=""><a href="cabinet.php">Cabinet</a></li>
-              <li class=""><a href="equipe.php">Equipe médicale</a></li>
-              <li class=""><a href="information.php">Informations</a></li>
-            </ul>
+        </nav>
+      </section>
 
-          </div>
-        </div>
-      </nav>
     </header>
 
     <!-- Home block -->
