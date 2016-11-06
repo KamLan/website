@@ -79,112 +79,22 @@
       <h3><strong><img src="img/team.png" alt="" />EQUIPE MEDICALE</strong></h3><br>
       <div class="row">
         <div class="col-sm-6">
-          <a href="" onclick="bascule('1'); return false;">
+          <a href="" onclick="Display(0); return false;">
             <p><strong>Docteur Gérard BARRAL</strong></p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
-            <div class="ContenuCache" style="display:none;" id="1">
-              <h2>Diplômes :</h2>
-                <p>
-                  Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'... depuis .... <br>
-                  Diplômé de la Faculté de Médecine de Lyon. <br>
-                  Docteur en Médecine. <br>
-                  Ancien interne des HRS de Lyon. <br>
-                  Ancien Praticien Hospitalier à temps partiel. <br>
-                  CES d'obstétrique et de gynécologie médicale. <br>
-                  CES de biologie de la reproduction. <br>
-                  DIU d'échographie générale. <br>
-                  DIU de médecine foetale. <br>
-                  DIU de colposcopie et pathologie cervico-vaginale. <br>
-                  Praticien attaché à l'Hôpital de Sainte-Foy-Lès-Lyon. <br>
-                  Membre du CFEF section dépistage <br>
-                  Agrément Réseau Périnatal AURORE n' <br>
-                </p>
-              <h2>Activités :</h2>
-              <p>
-                <strong>Obstétrique:</strong> suivi de grossesse avec actes : Césarienne prophylactique, curetage, cerclage, PLA.... faits sur le plateau technique de l'Hôpital de
-                <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0">Sainte-Foy-Lès-Lyon.</a> <br>
-                <strong>Gynécologie médicale :</strong> <br>
-                <strong>Echographie obstétricale et gynécologique</strong>
-              </p>
-              <h2>Honoraires</h2>
-                <p>
-                  Médecin conventionné à honoraires libres secteur 2. <br>
-                  CS: <br>
-                  Echo 1er Trimestre <br>
-                  Echo 2ème Trimestre <br>
-                  Echo 3ème Trimestre <br>
-                  Echo Gynéco <br>
-                  Pose Stérilet <br>
-                  Colposcopie <br>
-                  Praticien adhérrent à une association de gestion agréée. <br>
-                  Moyens de paiement acceptés: Chèque, Carte Bancaire, Espèces. <br>
-                </p>
-            </div>
-
         </div>
+
         <div class="col-sm-6">
-          <a href="" onclick="bascule('2'); return false;">
+          <a href="" onclick="Display(1); return false;">
             <p>Docteur Franck JACQUOT</p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
-            <div class="ContenuCache" style="display:none;" id="2">
-              <h2>Diplômes :</h2>
-                <p>
-                  Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'10630 depuis 12/1991 <br>
-                  Docteur en Médecine de la Faculté de Médecine de Lyon-Sud. <br>
-                  Ancien interne des Hôpitaux de Lyon. <br>
-                  Ancien assistant des Hôpitaux de Lyon. <br>
-                  Chef de Clinique de la Faculté de Lyon. <br>
-                  DES de Gynéco-obstétrique. <br>
-                  DIU de Médecine Prénatale et Foetale. <br>
-                  DIU de Sénologie. <br>
-                  DIU d'Echographie Gyneco-obstétricale. <br>
-                  DIU de Périnéologie. <br>
-                  Praticien Hospitalier temps partiel depuis 1997. <br>
-                  Chirurgien Gynécologique au CHU Lyon-Sud depuis Novembre 2009. <br>
-                </p>
-              <h2>Activités :</h2>
-                <h3>Cabinet :</h3>
-                  <p>
-                    Gynécologie chirurgicale <br>
-                    Urogynécologie <br>
-                    Sénologie <br>
-                    Echographie Gynécologique (2D et 3D) <br>
-                    Gynécologie Médicale <br>
-                    Suivi de grossesse <br>
-                    Echographie Obstétricale <br>
-                  </p>
-                <h3>Centre Hospitalier Lyon-Sud</h3>
-                  <p>
-                    Chirurgie Gynécologique <br>
-                    Chirurgie Mammaire <br>
-                    Chirurgie Périnéale <br>
-                    Consultation Spécialisée de: <br>
-                     - Statique Pelvienne <br>
-                     - Fuites Urinaires Féminines <br>
-                     - Pelvi Périnéologie <br>
-                     Bilan Uro-dynamique
-                     Echographie Pelvienne 3D et Ultrasonographique
-                     Laser vaginal et vulvaire <br>
-                  </p>
-              <h2>Honoraires :</h2>
-                <p>
-                  Médecin conventionné à honoraires libres secteur 2. <br>
-                  CS: 60€<br>
-                  Echo 1er Trimestre 100€<br>
-                  Echo 2ème Trimestre 130€<br>
-                  Echo 3ème Trimestre 120€<br>
-                  Echo Pelvienne 70-80€ <br>
-                  Praticien adhérrent à une association de gestion agréée. <br>
-                  Moyens de paiement acceptés: Chèque, Carte Bancaire <br>
-                </p>
-            </div>
         </div>
 
         <div class="col-sm-6">
-          <a href="" onclick="bascule('3'); return false;">
-            <button onclick="Display(2)">Docteur Irina HERGHEA</button>
+          <a href="" onclick="Display(2); return false;">
+            <p>Docteur Irina HERGHEA</p>
 
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
@@ -194,7 +104,7 @@
         </div>
         <div class="col-sm-6">
           <a href="" onclick="Display(3); return false;">
-            <button onclick="Display(3)">Marlène BARRAL</button>
+            <p>Marlène BARRAL</p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
         </div>
@@ -202,16 +112,6 @@
     </div><br>
 
     <script language="javascript" type="text/javascript">
-      function bascule(elem)
-         {
-           etat=document.getElementById(elem).style.display;
-           if(etat=="none"){
-           document.getElementById(elem).style.display="block";
-           }
-           else{
-           document.getElementById(elem).style.display="none";
-           }
-        }
       function Display(x) {
         switch (x) {
           case 0:
@@ -219,9 +119,35 @@
               title: 'Dr Gérard BARRAL',
               html:
                 "<h2>Diplômes</h2> "+
-
-                "<h2>Activité</h2> ",
-
+                  "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'... depuis .... <br>"+
+                  "Diplômé de la Faculté de Médecine de Lyon. <br>"+
+                  "Docteur en Médecine. <br>"+
+                  "Ancien interne des HRS de Lyon. <br>"+
+                  "Ancien Praticien Hospitalier à temps partiel. <br>"+
+                  "CES d'obstétrique et de gynécologie médicale. <br>"+
+                  "CES de biologie de la reproduction. <br>"+
+                  "DIU d'échographie générale. <br>"+
+                  "DIU de médecine foetale. <br>"+
+                  "DIU de colposcopie et pathologie cervico-vaginale. <br>"+
+                  "Praticien attaché à l'Hôpital de Sainte-Foy-Lès-Lyon. <br>"+
+                  "Membre du CFEF section dépistage <br>"+
+                  "Agrément Réseau Périnatal AURORE n' <br>"+
+                "<h2>Activité</h2> "+
+                  "<strong>Obstétrique:</strong> suivi de grossesse avec actes : Césarienne prophylactique, curetage, cerclage, PLA.... faits sur le plateau technique de l'Hôpital de "+
+                  '<a href="//hopital-ste-foy.fr/pole-naissance/index.html#3,0">Sainte-Foy-Lès-Lyon.</a> <br>'+
+                  "<strong>Gynécologie médicale :</strong> <br>"+
+                  "<strong>Echographie obstétricale et gynécologique</strong>"+
+                "<h2>Honoraires</h2>"+
+                      "Médecin conventionné à honoraires libres secteur 2. <br>"+
+                      "CS: <br>"+
+                      "Echo 1er Trimestre <br>"+
+                      "Echo 2ème Trimestre <br>"+
+                      "Echo 3ème Trimestre <br>"+
+                      "Echo Gynéco <br>"+
+                      "Pose Stérilet <br>"+
+                      "Colposcopie <br>"+
+                      "Praticien adhérrent à une association de gestion agréée. <br>"+
+                      "Moyens de paiement acceptés: Chèque, Carte Bancaire, Espèces.",
               width: 900,
               imageUrl: 'https://unsplash.it/400/200',
               imageWidth: 400,
@@ -235,9 +161,47 @@
               title: 'Dr Franck JACQUOT',
               html:
                 "<h2>Diplômes</h2> "+
-
-                "<h2>Activité</h2> ",
-
+                "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'10630 depuis 12/1991 <br>"+
+                "Docteur en Médecine de la Faculté de Médecine de Lyon-Sud. <br>"+
+                "Ancien interne des Hôpitaux de Lyon. <br>"+
+                "Ancien assistant des Hôpitaux de Lyon. <br>"+
+                "Chef de Clinique de la Faculté de Lyon. <br>"+
+                "DES de Gynéco-obstétrique. <br>"+
+                "DIU de Médecine Prénatale et Foetale. <br>"+
+                "DIU de Sénologie. <br>"+
+                "DIU d'Echographie Gyneco-obstétricale. <br>"+
+                "DIU de Périnéologie. <br>"+
+                "Praticien Hospitalier temps partiel depuis 1997. <br>"+
+                "Chirurgien Gynécologique au CHU Lyon-Sud depuis Novembre 2009. <br>"+
+                "<h2>Activité</h2> "+
+                "<h3>Cabinet :</h3>"+
+                    "Gynécologie chirurgicale <br>"+
+                    "Urogynécologie <br>"+
+                    "Sénologie <br>"+
+                    "Echographie Gynécologique (2D et 3D) <br>"+
+                    "Gynécologie Médicale <br>"+
+                    "Suivi de grossesse <br>"+
+                    "Echographie Obstétricale <br>"+
+                "<h3>Centre Hospitalier Lyon-Sud</h3>"+
+                    "Chirurgie Gynécologique <br>"+
+                    "Chirurgie Mammaire <br>"+
+                    "Chirurgie Périnéale <br>"+
+                    "Consultation Spécialisée de: <br>"+
+                     "- Statique Pelvienne <br>"+
+                     "- Fuites Urinaires Féminines <br>"+
+                     "- Pelvi Périnéologie <br>"+
+                     "Bilan Uro-dynamique"+
+                     "Echographie Pelvienne 3D et Ultrasonographique"+
+                     "Laser vaginal et vulvaire <br>"+
+              "<h2>Honoraires :</h2>"+
+                  "Médecin conventionné à honoraires libres secteur 2. <br>"+
+                  "CS: 60€<br>"+
+                  "Echo 1er Trimestre 100€<br>"+
+                  "Echo 2ème Trimestre 130€<br>"+
+                  "Echo 3ème Trimestre 120€<br>"+
+                  "Echo Pelvienne 70-80€ <br>"+
+                  "Praticien adhérrent à une association de gestion agréée. <br>"+
+                  "Moyens de paiement acceptés: Chèque, Carte Bancaire <br>",
               width: 900,
               imageUrl: 'https://unsplash.it/400/200',
               imageWidth: 400,
