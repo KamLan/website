@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/parallax.js"></script>
+    <script src="js/es6-promise.auto.min.js"></script>
+    <script src="js/sweetalert2.min.js"></script>
+    <link rel="stylesheet" href="css/sweetalert2.min.css">
   </head>
 
   <body>
@@ -181,7 +184,8 @@
 
         <div class="col-sm-6">
           <a href="" onclick="bascule('3'); return false;">
-            <p>Docteur Irina HERGHEA</p>
+            <button onclick="Display(2)">Docteur Irina HERGHEA</button>
+
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
             <div class="ContenuCache" style="display:none;" id="3">
@@ -189,34 +193,10 @@
             </div>
         </div>
         <div class="col-sm-6">
-          <a href="" onclick="bascule('4'); return false;">
-            <p>Marlène BARRAL</p>
+          <a href="" onclick="Display(3); return false;">
+            <button onclick="Display(3)">Marlène BARRAL</button>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
-            <div class="ContenuCache" style="display:none;" id="4">
-              <h2>Diplômes</h2>
-                <p>
-                  Inscrite au Tableau du Conseil Départemental de l'Ordre du Rhône n' <br>
-                  Diplômée de la Faculté de Maïeutique de Lyon <br>
-                  Sage Femme <br>
-                  DIU de rééducation périnéale <br>
-                  DIU de Sexologie en cours <br>
-                </p>
-              <h2>Activités :</h2>
-                <p>
-                  Suivi de la grossesse normale <br>
-                  Suivi gynécologique de prévention et de contraception <br>
-                  Entretien du quatrième mois de grossesse <br>
-                  Rééducation périnéale <br>
-                  Cours de préparation à l'accouchement (traditionnelle, sophrologie, yoga) <br>
-                  Suivi à domicile de grossesses pathologiques sur prescription médicale <br>
-                  Sortie précoce de maternité <br>
-                  Suivi post-natal de la mère et l'enfant à domicile <br>
-                  Dysfonction sexuelle <br>
-                  Accès à la salle de préparation à l'accouchement du Centre Hospitalier de Sainte-Foy-Lès-Lyon <br>
-                </p>
-              <h2>Honoraires :</h2>
-            </div>
         </div>
       </div>
     </div><br>
@@ -232,6 +212,89 @@
            document.getElementById(elem).style.display="none";
            }
         }
+      function Display(x) {
+        switch (x) {
+          case 0:
+            swal({
+              title: 'Dr Gérard BARRAL',
+              html:
+                "<h2>Diplômes</h2> "+
+
+                "<h2>Activité</h2> ",
+
+              width: 900,
+              imageUrl: 'https://unsplash.it/400/200',
+              imageWidth: 400,
+              imageHeight: 200,
+              animation: false,
+              showCloseButton: true,
+            })
+            break;
+          case 1:
+            swal({
+              title: 'Dr Franck JACQUOT',
+              html:
+                "<h2>Diplômes</h2> "+
+
+                "<h2>Activité</h2> ",
+
+              width: 900,
+              imageUrl: 'https://unsplash.it/400/200',
+              imageWidth: 400,
+              imageHeight: 200,
+              animation: false,
+              showCloseButton: true,
+            })
+            break;
+          case 2:
+            swal({
+              title: 'Dr Irina HERGHEA',
+              html:
+                "<h2>Diplômes</h2> "+
+
+                "<h2>Activité</h2> ",
+
+              width: 900,
+              imageUrl: 'https://unsplash.it/400/200',
+              imageWidth: 400,
+              imageHeight: 200,
+              animation: false,
+              showCloseButton: true,
+            })
+            break;
+          case 3:
+            swal({
+              title: 'Marlène BARRAL',
+              html:
+                "<h2>Diplômes</h2> "+
+                "Inscrite au Tableau du Conseil Départemental de l'Ordre du Rhône n' <br> " +
+                "Diplômée de la Faculté de Maïeutique de Lyon <br>" +
+                "Sage Femme <br>" +
+                "DIU de rééducation périnéale <br>" +
+                "DIU de Sexologie en cours <br>" +
+                "<h2>Activité</h2> "+
+                "Suivi de la grossesse normale <br>" +
+                "Suivi gynécologique de prévention et de contraception <br>" +
+                "Entretien du quatrième mois de grossesse <br>" +
+                "Rééducation périnéale <br>" +
+                "Cours de préparation à l'accouchement (traditionnelle, sophrologie, yoga) <br>" +
+                "Suivi à domicile de grossesses pathologiques sur prescription médicale <br>" +
+                "Sortie précoce de maternité <br>" +
+                "Suivi post-natal de la mère et l'enfant à domicile <br>" +
+                "Dysfonction sexuelle <br>" +
+                "Accès à la salle de préparation à l'accouchement du Centre Hospitalier de Sainte-Foy-Lès-Lyon <br>",
+              width: 900,
+              imageUrl: 'https://unsplash.it/400/200',
+              imageWidth: 400,
+              imageHeight: 200,
+              animation: false,
+              showCloseButton: true,
+            })
+            break;
+          default:
+            break;
+        }
+      }
     </script>
 
   </body>
