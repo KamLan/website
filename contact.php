@@ -32,7 +32,7 @@
             </div>
             <div class="col-sm-4">
               <h3>
-                12 chemin de la croix Pivort, 69110, <strong>Sainte-Foy-Lès-Lyon</strong>
+                12 chemin de la croix Pivort, 69110, <br> <strong>Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
                 <strong>Tel:</strong> 04.78.59.80.51

@@ -35,7 +35,7 @@
             </div>
             <div class="col-sm-4">
               <h3>
-                12 chemin de la croix Pivort, 69110, <strong>Sainte-Foy-Lès-Lyon</strong>
+                12 chemin de la croix Pivort, 69110, br <strong>Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
                 <strong>Tel:</strong> 04.78.59.80.51
@@ -152,7 +152,7 @@
               imageUrl: 'https://unsplash.it/400/200',
               imageWidth: 400,
               imageHeight: 200,
-              animation: false,
+              animation: true,
               showCloseButton: true,
             })
             break;
@@ -206,7 +206,7 @@
               imageUrl: 'https://unsplash.it/400/200',
               imageWidth: 400,
               imageHeight: 200,
-              animation: false,
+              animation: true,
               showCloseButton: true,
             })
             break;
@@ -222,7 +222,7 @@
               imageUrl: 'https://unsplash.it/400/200',
               imageWidth: 400,
               imageHeight: 200,
-              animation: false,
+              animation: true,
               showCloseButton: true,
             })
             break;
@@ -251,7 +251,7 @@
               imageUrl: 'https://unsplash.it/400/200',
               imageWidth: 400,
               imageHeight: 200,
-              animation: false,
+              animation: true,
               showCloseButton: true,
             })
             break;
