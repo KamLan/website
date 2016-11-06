@@ -10,6 +10,7 @@
 }
 
 /* top band */
+
 .topband{
   font-family: "bebas neue";
 }
@@ -23,6 +24,10 @@
 
 nav{
   font-family: "bebas neue";
+}
+
+.col-sm-8 h3 strong{
+  font-size: 30px;
 }
 
 /* BODY */
