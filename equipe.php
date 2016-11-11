@@ -31,7 +31,7 @@
                 </strong>
               </h2>
               <h3>
-                Dr Gérard <strong>BARRAL</strong>, Dr Franck <strong>JACQUOT</strong>, Dr Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong>
+                Dr Gérard <strong>BARRAL</strong>, Dr Franck <strong>JACQUOT</strong>, Dr Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
             <div class="col-sm-4">
