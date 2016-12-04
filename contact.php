@@ -109,7 +109,7 @@
                 <div class="panel-heading">
                   <h2><strong> <strong><img src="img/maps-and-flags.png" alt="" /> Accès :</strong></h2>
                 </div>
-                <div class="panel-body col-sm-6">
+                <div class="panel-body col-sm-6 col-xs-12">
                   <h3>Adresse</h3>
                   <p>
                     12 chemin de la croix Pivort, 69110, Sainte-Foy-Lès-Lyon.
@@ -119,11 +119,11 @@
                   </p>
                   <h3>Lignes de Bus</h3>
                   <p>
-                  numéro C19 arrêt Sainte-Foy Centre <br> numéro C17 arrêt sainte-Foy Centre
+                  numéro C19 arrêt Sainte-Foy Centre<br> numéro C17 arrêt sainte-Foy Centre
                   </p>
                 </div>
-                <div class="panel-body col-sm-6">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.9509877228866!2d4.801712315573599!3d45.732077723549814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebdde053f789%3A0x249166d3c241cf69!2s12+Chemin+de+la+Croix+Pivort%2C+69110+Sainte-Foy-l%C3%A8s-Lyon!5e0!3m2!1sfr!2sfr!4v1477481884890" width="800" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <div class="panel-body col-sm-6 col-xs-12">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.9509877228866!2d4.801712315573599!3d45.732077723549814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebdde053f789%3A0x249166d3c241cf69!2s12+Chemin+de+la+Croix+Pivort%2C+69110+Sainte-Foy-l%C3%A8s-Lyon!5e0!3m2!1sfr!2sfr!4v1477481884890" width="500" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
           </div>
