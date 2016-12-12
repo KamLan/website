@@ -31,12 +31,12 @@
                 </strong>
               </h2>
               <h3>
-                Dr Gérard <strong>BARRAL</strong>, Dr Franck <strong>JACQUOT</strong>, Dr Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
+                <strong>D</strong>r Gérard <strong>BARRAL</strong>, <strong>D</strong>r Franck <strong>JACQUOT</strong>, <strong>D</strong>r Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
             <div class="col-sm-4">
               <h3>
-                12 chemin de la croix Pivort, 69110, br <strong>Sainte-Foy-Lès-Lyon</strong>
+                12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
                 <strong>Tel:</strong> 04.78.59.80.51
@@ -47,31 +47,32 @@
       </div>
 
       <!-- responsive navbar -->
-
-      <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.php">
-              <i class="fa fa-medkit fa-lg" aria-hidden="true"></i>
-            </a>
+      <section>
+        <nav class="navbar navbar-inverse">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.php">
+                <i class="fa fa-medkit fa-lg" aria-hidden="true"></i>
+              </a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+              <ul class="nav navbar-nav">
+                <li class=""><a href="index.php">Accueil</a></li>
+                <li class="active"><a href="equipe.php">Equipe médicale</a></li>
+                <li class=""><a href="cabinet.php">Cabinet</a></li>
+                <li class=""><a href="contact.php">Contact</a></li>
+                <li class=""><a href="information.php">Informations</a></li>
+              </ul>
+            </div>
           </div>
-          <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav">
-              <li class=""><a href="index.php">Accueil</a></li>
-              <li class=""><a href="contact.php">Contact</a></li>
-              <li class=""><a href="cabinet.php">Cabinet</a></li>
-              <li class="active"><a href="equipe.php">Equipe médicale</a></li>
-              <li class=""><a href="information.php">Informations</a></li>
-            </ul>
+        </nav>
+      </section>
 
-          </div>
-        </div>
-      </nav>
     </header>
 
     <!-- Equipe medicale block -->
@@ -119,50 +120,71 @@
             swal({
               title: 'Dr Gérard BARRAL',
               html:
-                "<h2>Diplômes</h2> "+
-                  "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'... depuis .... <br>"+
+                "Gynécologue Obstétricien <br>"+
+                "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'69/6573 depuis 1983 <br>"+
+                "Médecin conventionné à honoraires libres secteur 2. <br>"+
+                "Membre du CFEF section dépistage <br>"+
+                "Membre suppléant du conseil départemental de l'Ordre des Medecins du Rhône <br>"+
+                "<h2>Activité</h2>"+
+                  "Suivi de grossesse normale et pathologique <br>"+
+                  "<strong>Gynécologie médicale et contraception</strong> <br>"+
+                  "<strong>Echographie Obstétricale avec agrément pour le depistage de la trisomie 21 </strong> <br>"+
+                  "<strong>Echographie gynécologique </strong> <br>"+
+                  "<strong>Colposcopie </strong> <br>"+
+                  "<strong>Césarienne prophylactique sur le plateau technique de l'hopital de <a href='http://hopital-ste-foy.fr/pole-naissance/index.html'>Sainte-Foy-Lès-Lyon</a> </strong> <br>"+
+                "<h2>Diplômes</h2>"+
                   "Diplômé de la Faculté de Médecine de Lyon. <br>"+
                   "Docteur en Médecine. <br>"+
                   "Ancien interne des HRS de Lyon. <br>"+
                   "Ancien Praticien Hospitalier à temps partiel. <br>"+
+                  "Praticien attaché à l'Hôpital de Sainte-Foy-Lès-Lyon. <br>"+
                   "CES d'obstétrique et de gynécologie médicale. <br>"+
                   "CES de biologie de la reproduction. <br>"+
                   "DIU d'échographie générale. <br>"+
                   "DIU de médecine foetale. <br>"+
                   "DIU de colposcopie et pathologie cervico-vaginale. <br>"+
-                  "Praticien attaché à l'Hôpital de Sainte-Foy-Lès-Lyon. <br>"+
-                  "Membre du CFEF section dépistage <br>"+
-                  "Agrément Réseau Périnatal AURORE n' <br>"+
-                "<h2>Activité</h2> "+
-                  "<strong>Obstétrique:</strong> suivi de grossesse avec actes : Césarienne prophylactique, curetage, cerclage, PLA.... faits sur le plateau technique de l'Hôpital de "+
-                  '<a href="//hopital-ste-foy.fr/pole-naissance/index.html#3,0">Sainte-Foy-Lès-Lyon.</a> <br>'+
-                  "<strong>Gynécologie médicale :</strong> <br>"+
-                  "<strong>Echographie obstétricale et gynécologique</strong>"+
                 "<h2>Honoraires</h2>"+
-                      "Médecin conventionné à honoraires libres secteur 2. <br>"+
-                      "CS: <br>"+
-                      "Echo 1er Trimestre <br>"+
-                      "Echo 2ème Trimestre <br>"+
-                      "Echo 3ème Trimestre <br>"+
-                      "Echo Gynéco <br>"+
-                      "Pose Stérilet <br>"+
-                      "Colposcopie <br>"+
-                      "Praticien adhérrent à une association de gestion agréée. <br>"+
-                      "Moyens de paiement acceptés: Chèque, Carte Bancaire, Espèces.",
+                      "CS: 60€  <br>"+
+                      "Echo 1er Trimestre: 100€ <br>"+
+                      "Echo 2ème Trimestre 130€<br>"+
+                      "Echo 3ème Trimestre 120€<br>"+
+                      "Echo Gynécologique 70-80€ <br>"+
+                      "Pose Stérilet: 70€<br>"+
+                      "Colposcopie: 70€ <br>"+
+                      "Praticien adhérent à une association de gestion agréée. <br>"+
+                      "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
               width: 900,
-              imageUrl: 'https://unsplash.it/400/200',
-              imageWidth: 400,
-              imageHeight: 200,
               animation: true,
-              showCloseButton: true,
+              showCloseButton: true
             })
             break;
           case 1:
             swal({
               title: 'Dr Franck JACQUOT',
               html:
+              "Chirurgien Gynécologue au CHU Lyon-Sud <br>"+
+              "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'10630 depuis 12/1991 <br>"+
+              "Médecin conventionné à honoraires libres secteur 2. <br>"+
+              "<h2>Activité</h2> "+
+              "<h3>Cabinet :</h3>"+
+                  "Gynécologie chirurgicale <br>"+
+                  "Urogynécologie <br>"+
+                  "Sénologie <br>"+
+                  "Echographie Gynécologique (2D et 3D) <br>"+
+                  "Gynécologie Médicale et contraception <br>"+
+                  "Suivi de grossesse <br>"+
+                  "<strong>Echographie Obstétricale avec agrément pour le depistage de la trisomie 21 </strong> <br>"+
+              "<h3>Centre Hospitalier Lyon-Sud</h3>"+
+                  "Chirurgie Gynécologique vaginale et célioscopique<br>"+
+                  "Cancérologie Mammaire <br>"+
+                  "Consultation Spécialisée : <br>"+
+                   "- Statique Pelvienne <br>"+
+                   "- Fuites Urinaires Féminines <br>"+
+                   "- Pelvi Périnéologie <br>"+
+                   "Bilan Uro-dynamique<br>"+
+                   "Echographie Pelvienne 2D, 3D et Ultrasonographique <br>"+
+                   "Laser vaginal et vulvaire <br>"+
                 "<h2>Diplômes</h2> "+
-                "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'10630 depuis 12/1991 <br>"+
                 "Docteur en Médecine de la Faculté de Médecine de Lyon-Sud. <br>"+
                 "Ancien interne des Hôpitaux de Lyon. <br>"+
                 "Ancien assistant des Hôpitaux de Lyon. <br>"+
@@ -173,87 +195,108 @@
                 "DIU d'Echographie Gyneco-obstétricale. <br>"+
                 "DIU de Périnéologie. <br>"+
                 "Praticien Hospitalier temps partiel depuis 1997. <br>"+
-                "Chirurgien Gynécologique au CHU Lyon-Sud depuis Novembre 2009. <br>"+
-                "<h2>Activité</h2> "+
-                "<h3>Cabinet :</h3>"+
-                    "Gynécologie chirurgicale <br>"+
-                    "Urogynécologie <br>"+
-                    "Sénologie <br>"+
-                    "Echographie Gynécologique (2D et 3D) <br>"+
-                    "Gynécologie Médicale <br>"+
-                    "Suivi de grossesse <br>"+
-                    "Echographie Obstétricale <br>"+
-                "<h3>Centre Hospitalier Lyon-Sud</h3>"+
-                    "Chirurgie Gynécologique <br>"+
-                    "Chirurgie Mammaire <br>"+
-                    "Chirurgie Périnéale <br>"+
-                    "Consultation Spécialisée de: <br>"+
-                     "- Statique Pelvienne <br>"+
-                     "- Fuites Urinaires Féminines <br>"+
-                     "- Pelvi Périnéologie <br>"+
-                     "Bilan Uro-dynamique"+
-                     "Echographie Pelvienne 3D et Ultrasonographique"+
-                     "Laser vaginal et vulvaire <br>"+
-              "<h2>Honoraires :</h2>"+
-                  "Médecin conventionné à honoraires libres secteur 2. <br>"+
-                  "CS: 60€<br>"+
-                  "Echo 1er Trimestre 100€<br>"+
-                  "Echo 2ème Trimestre 130€<br>"+
-                  "Echo 3ème Trimestre 120€<br>"+
-                  "Echo Pelvienne 70-80€ <br>"+
-                  "Praticien adhérrent à une association de gestion agréée. <br>"+
-                  "Moyens de paiement acceptés: Chèque, Carte Bancaire <br>",
+                "<h2>Honoraires</h2>"+
+                      "CS: 60€  <br>"+
+                      "Echo 1er Trimestre: 100€ <br>"+
+                      "Echo 2ème Trimestre 130€<br>"+
+                      "Echo 3ème Trimestre 120€<br>"+
+                      "Echo Gynécologique 70-80€ <br>"+
+                      "Pose Stérilet: 70€<br>"+
+                      "Colposcopie: 70€ <br>"+
+                      "Praticien adhérent à une association de gestion agréée. <br>"+
+                      "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
               width: 900,
-              imageUrl: 'https://unsplash.it/400/200',
-              imageWidth: 400,
-              imageHeight: 200,
               animation: true,
-              showCloseButton: true,
+              showCloseButton: true
             })
             break;
           case 2:
             swal({
               title: 'Dr Irina HERGHEA',
               html:
+              "Chirurgien Gynécologue Obstétricien Accoucheur à l'Hôpital de Sainte-Foy-Lès-Lyon <br>"+
+              "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'21025 depuis 04/2009 <br>"+
+              "Médecin conventionné à honoraires libres secteur 2. <br>"+
+                "<h2>Activité</h2> "+
+                "<h3>Cabinet :</h3>"+
+                  "Suivi de grossesse normale et pathologique <br>"+
+                  "<strong>Gynécologie médicale et contraception</strong> <br>"+
+                  "<strong>Echographie Obstétricale avec agrément pour le depistage de la trisomie 21 </strong> <br>"+
+                  "<strong>Echographie gynécologique </strong> <br>"+
+                  "<strong>Colposcopie </strong> <br>"+
+                "<h3>Centre Hospitalier Sainte-Foy-Lès-Lyon</h3>"+
+                  "Accouchements voie basse et césariennes <br>"+
+                  "Chirurgie gynécologique: <br>"+
+                  "- Célioscopie <br>"+
+                  "- Chirurgie vaginale <br>"+
+                  "- Cure prolapsus et incontinence urinaire <br>"+
+                  "- Hystérectomie <br>"+
+                  "- Myoméctomie <br>"+
+                  "- Chirurgie bénigne du sein <br>"+
+                  "- Stérilisation <br>"+
+                  "- Conisation <br>"+
+                  "- Hystéroscopie <br>"+
+                "Gynécologie-obstétricienne, elle se déplace pour les accouchements et pour les opérations chirurgicales à la maternité de Sainte-Foy-Lès-Lyon, basée au 78 chemin de Montray à Sainte-Foy-Lès-Lyon 69110 <br>"+
                 "<h2>Diplômes</h2> "+
-
-                "<h2>Activité</h2> ",
-
+                "Ancien assistant des Hôpitaux de Lyon. <br>"+
+                "Praticien Hospitalier à temps partiel depuis 2011 <br>"+
+                "<br>"+
+                "DES de Gynécologie Obstétrique <br>"+
+                "DIU d'Echographie Gyneco-obstétricale. <br>"+
+                "DIU Coelioscopie Gynécologique. <br>"+
+                "DIU de Chirurgie Vaginale. <br>"+
+                "DIU Assistance médicale à la procréation. <br>"+
+                "DIU Colposcopie et pathologies cervico-vaginale. <br>"+
+                "<h2>Honoraires</h2>"+
+                      "CS: 60€  <br>"+
+                      "Echo 1er Trimestre: 100€ <br>"+
+                      "Echo 2ème Trimestre 130€<br>"+
+                      "Echo 3ème Trimestre 120€<br>"+
+                      "Echo Gynécologique 70-80€ <br>"+
+                      "Pose Stérilet: 70€<br>"+
+                      "Colposcopie: 70€ <br>"+
+                      "Praticien adhérent à une association de gestion agréée. <br>"+
+                      "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
               width: 900,
-              imageUrl: 'https://unsplash.it/400/200',
-              imageWidth: 400,
-              imageHeight: 200,
               animation: true,
-              showCloseButton: true,
+              showCloseButton: true
             })
             break;
           case 3:
             swal({
               title: 'Marlène BARRAL',
               html:
-                "<h2>Diplômes</h2> "+
-                "Inscrite au Tableau du Conseil Départemental de l'Ordre du Rhône n' <br> " +
-                "Diplômée de la Faculté de Maïeutique de Lyon <br>" +
-                "Sage Femme <br>" +
-                "DIU de rééducation périnéale <br>" +
-                "DIU de Sexologie en cours <br>" +
+              "Sage Femme <br>" +
+              "Inscrite au Tableau du Conseil Départemental de l'Ordre des Sage-femmes du Rhône <br> " +
                 "<h2>Activité</h2> "+
-                "Suivi de la grossesse normale <br>" +
-                "Suivi gynécologique de prévention et de contraception <br>" +
-                "Entretien du quatrième mois de grossesse <br>" +
-                "Rééducation périnéale <br>" +
-                "Cours de préparation à l'accouchement (traditionnelle, sophrologie, yoga) <br>" +
-                "Suivi à domicile de grossesses pathologiques sur prescription médicale <br>" +
-                "Sortie précoce de maternité <br>" +
-                "Suivi post-natal de la mère et l'enfant à domicile <br>" +
-                "Dysfonction sexuelle <br>" +
-                "Accès à la salle de préparation à l'accouchement du Centre Hospitalier de Sainte-Foy-Lès-Lyon <br>",
+                  "<h3>Grossesse</h3>"+
+                    "Suivi de la grossesse physiologique <br>" +
+                    "Entretien prénatal<br>"+
+                    "Préparation à la naissance et la parentalité (classique, yoga, soprologique) sur le plateau technique de l'hopital de <a href='http://hopital-ste-foy.fr/pole-naissance/index.html#3,0'>Sainte-Foy-Lès-Lyon</a> <br>"+
+                    "Suivi à domicile de grossesses pathologiques sur prescription médicale <br>" +
+                    "Visite à domicile après retour de la maternité<br>"+
+                  "<h3>Gynécologie</h3>"+
+                    "Suivi de prévention<br>"+
+                    "Contraception<br>"+
+                  "<h3>Rééducation périnéale</h3>"+
+                    "Post-partum et urogénycologique<br>" +
+                    "Manuelle et sonde vaginale (biofeedback et électrosimulation)"+
+                  "<h3>Séxologie</h3>"+
+                    "Dysfonction sexuelle de la femme"+
+                "<h2>Diplômes</h2> "+
+                "Diplômée d'Etat de sage-femme Faculté de Médecine et Maïeutique de Lyon-Sud <br>" +
+                "DU de périnéologie"+
+                "DIU de Sexologie en cours de validation<br>" +
+                "<h2>Honoraires</h2> "+
+                "Consulatation:"+
+                "entretien prénatal:"+
+                "Séance de rééducation périnéale:"+
+                "Consulatation de séxologie:"+
+                "Praticien adhérent à une association de gestion agréée. <br>"+
+                "Moyens de paiement acceptés: Chèque",
               width: 900,
-              imageUrl: 'https://unsplash.it/400/200',
-              imageWidth: 400,
-              imageHeight: 200,
               animation: true,
-              showCloseButton: true,
+              showCloseButton: true
             })
             break;
           default:

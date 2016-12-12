@@ -28,12 +28,12 @@
                 </strong>
               </h2>
               <h3>
-                Dr Gérard <strong>BARRAL</strong>, Dr Franck <strong>JACQUOT</strong>, Dr Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
+                <strong>D</strong>r Gérard <strong>BARRAL</strong>, <strong>D</strong>r Franck <strong>JACQUOT</strong>, <strong>D</strong>r Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
             <div class="col-sm-4">
               <h3>
-                12 chemin de la croix Pivort, 69110, <br> <strong>Sainte-Foy-Lès-Lyon</strong>
+                12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
                 <strong>Tel:</strong> 04.78.59.80.51
@@ -44,31 +44,32 @@
       </div>
 
       <!-- responsive navbar -->
-
-      <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.php">
-              <i class="fa fa-medkit fa-lg" aria-hidden="true"></i>
-            </a>
+      <section>
+        <nav class="navbar navbar-inverse">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.php">
+                <i class="fa fa-medkit fa-lg" aria-hidden="true"></i>
+              </a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+              <ul class="nav navbar-nav">
+                <li class=""><a href="index.php">Accueil</a></li>
+                <li class=""><a href="equipe.php">Equipe médicale</a></li>
+                <li class=""><a href="cabinet.php">Cabinet</a></li>
+                <li class="active"><a href="contact.php">Contact</a></li>
+                <li class=""><a href="information.php">Informations</a></li>
+              </ul>
+            </div>
           </div>
-          <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav">
-              <li class=""><a href="index.php">Accueil</a></li>
-              <li class="active"><a href="contact.php">Contact</a></li>
-              <li class=""><a href="cabinet.php">Cabinet</a></li>
-              <li class=""><a href="equipe.php">Equipe médicale</a></li>
-              <li class=""><a href="information.php">Informations</a></li>
-            </ul>
+        </nav>
+      </section>
 
-          </div>
-        </div>
-      </nav>
     </header>
 
     <!-- Contact block -->
@@ -82,25 +83,40 @@
                 <div class="panel-body">
                   <h3> Par téléphone : </h3>
                   <p>
-                    Prise de rendez-vous au 04.18.59.82.51 assurée par ... et ..., secrétaires médicales diplomées.
+                    Prise de rendez-vous au 04.78.59.82.51 assurée par  secrétaires médicales diplomées.
                   </p>
                   <p>
                     Horaire d'accueil téléphonique du lundi au vendredi de 10h à 12h et de 14h à 18h.
-                  </p>
-                  <h3>Par fax :</h3>
-                  <p>
 
                   </p>
                   <h3>Par courriel :</h3>
                   <p>
 
                   </p>
+                  <h3>Par fax :</h3>
+                  <p>
+
+                  </p>
+                  <h3> Surveillance de grossesse à domicile par Sage-femme :</h3>
+                  <p>
+                    Portable Marlène BARRAL : 07.61.63.24.76.
+                  </p>
+                  <h3> Préparation à l'accouchement :</h3>
+                  <p>
+                    Marlène BARRAL : 04.72.16.86.68.
+                  </p>
                   <h3>Pour les urgences en dehors des heures du secrétariat :</h3>
                   <p>
-                    Composez le 15
+                    Grossesse: Salle d'accouchement Hôpital de Sainte-Foy-Lès-Lyon: 04.72.16.86.05.
                   </p>
                   <p>
-                    Urgences du service de gynécologie obtétrique du Centre Hospitalier de Sainte-Foy-Lès-Lyon, Tel: 04.72.16.86.05
+                    Gynécologie: Service d'urgences Hôpital Sainte-Foy-Lès-Lyon : 04.72.16.86.05.
+                  </p>
+                  <p>
+                    Suites chirurgicale du Dr JACQUOT: service G1 CHU Lyon-Sud: 04.78.86.13.89.
+                  </p>
+                  <p>
+                    Urgences vitales: 15
                   </p>
                 </div>
             </div>
@@ -119,7 +135,7 @@
                   </p>
                   <h3>Lignes de Bus</h3>
                   <p>
-                  numéro C19 arrêt Sainte-Foy Centre<br> numéro C17 arrêt sainte-Foy Centre
+                  Ligne C19 arrêt Sainte-Foy Centre<br> Ligne C17 arrêt sainte-Foy Centre
                   </p>
                 </div>
                 <div class="panel-body col-sm-6 col-xs-12">
