@@ -39,7 +39,7 @@
                 12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
-                <strong>Tel:</strong> 04.78.59.80.51
+                <strong>Tel:</strong> 04.78.59.82.51
               </h3>
             </div>
           </div>

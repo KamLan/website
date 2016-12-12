@@ -36,7 +36,7 @@
                 12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
-                <strong>Tel:</strong> 04.78.59.80.51
+                <strong>Tel:</strong> 04.78.59.82.51
               </h3>
             </div>
           </div>
@@ -86,8 +86,8 @@
               <div class="panel-body">
                 <h3></h3>
                 <p>
-                  Le cabinet de gynécologie obstétrique et échographie des Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et M. BARRAL assure la prise en charge des consulations d'obstétrique, de gynécologie médicale,
-                  de gynécologie chirurgicale, d'échographie gynécologique et obstétricale ainsi que la préparation à l'accouchement, la rééducation périnéale et le suivi à domicile des grossesses pathologiques.
+                  Le cabinet de gynécologie obstétrique et échographie des Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et la sage-femme M. BARRAL assurent la prise en charge des consulations d'obstétrique, de gynécologie médicale,
+                  de gynécologie chirurgicale, d'échographie gynécologique et obstétricale ainsi que la préparation à l'accouchement, la rééducation périnéale et le suivi à domicile des grossesses pathologiques. <br><br>
                   Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge dans le service de gynécologie obstétrique du
                   <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> ou du
                   <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html">Centre Hospitalier Lyon-Sud</a>.

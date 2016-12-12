@@ -16,6 +16,7 @@
 }
 .topband div div div h2{
   text-align: center;
+  font-size: 37px;
 }
 
 .topband div div div h3{
@@ -36,6 +37,10 @@ body{
   background-color: #eee;
   font-size: 20px;
   font-family: "champagne et limousine", "Comic Sans";
+}
+
+body p{
+  font-size: 1.2em;
 }
 
 .col-sm-6 img {

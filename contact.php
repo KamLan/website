@@ -36,7 +36,7 @@
                 12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
-                <strong>Tel:</strong> 04.78.59.80.51
+                <strong>Tel:</strong> 04.78.59.82.51
               </h3>
             </div>
           </div>
@@ -76,12 +76,12 @@
 
         <div class="container backback col-sm-12">
           <div class="row">
-            <div class="col-sm-12">
+            <div class="col-sm-6">
                 <div class="panel-heading">
                   <h2><strong><img src="img/fax.png" alt="" /> Nous joindre :</strong></h2>
                 </div>
                 <div class="panel-body">
-                  <h3> Par téléphone : </h3>
+                  <h3> <strong>Par téléphone :</strong> </h3>
                   <p>
                     Prise de rendez-vous au 04.78.59.82.51 assurée par  secrétaires médicales diplomées.
                   </p>
@@ -89,23 +89,23 @@
                     Horaire d'accueil téléphonique du lundi au vendredi de 10h à 12h et de 14h à 18h.
 
                   </p>
-                  <h3>Par courriel :</h3>
+                  <h3><strong>Par courriel :</strong></h3>
                   <p>
-
+                    secretariat@cabinetgyneco.com
                   </p>
-                  <h3>Par fax :</h3>
+                  <h3><strong>Par fax :</strong></h3>
                   <p>
-
+                    04.78.59.71.43
                   </p>
-                  <h3> Surveillance de grossesse à domicile par Sage-femme :</h3>
+                  <h3><strong>Surveillance de grossesse à domicile par Sage-femme :</strong></h3>
                   <p>
                     Portable Marlène BARRAL : 07.61.63.24.76.
                   </p>
-                  <h3> Préparation à l'accouchement :</h3>
+                  <h3> <strong>Préparation à l'accouchement :</strong></h3>
                   <p>
                     Marlène BARRAL : 04.72.16.86.68.
                   </p>
-                  <h3>Pour les urgences en dehors des heures du secrétariat :</h3>
+                  <h3><strong>Pour les urgences en dehors des heures du secrétariat :</strong></h3>
                   <p>
                     Grossesse: Salle d'accouchement Hôpital de Sainte-Foy-Lès-Lyon: 04.72.16.86.05.
                   </p>
@@ -116,11 +116,13 @@
                     Suites chirurgicale du Dr JACQUOT: service G1 CHU Lyon-Sud: 04.78.86.13.89.
                   </p>
                   <p>
-                    Urgences vitales: 15
+                    Urgences vitales: Appeler le 15
                   </p>
                 </div>
             </div>
-          <div class="parallax-container col-sm-12" data-parallax="scroll" data-image-src="img/wood.jpg" ></div>
+            <div class="col-sm-6">
+              <img src="img\landscape.jpg" alt="" />
+            </div>
             <div class="col-sm-12">
                 <div class="panel-heading">
                   <h2><strong> <strong><img src="img/maps-and-flags.png" alt="" /> Accès :</strong></h2>
@@ -135,7 +137,8 @@
                   </p>
                   <h3>Lignes de Bus</h3>
                   <p>
-                  Ligne C19 arrêt Sainte-Foy Centre<br> Ligne C17 arrêt sainte-Foy Centre
+                    <img src="img\school-bus.png" alt="" /> Ligne C19 arrêt Sainte-Foy Centre<br>
+                    <img src="img\school-bus.png" alt="" /> Ligne C17 arrêt sainte-Foy Centre
                   </p>
                 </div>
                 <div class="panel-body col-sm-6 col-xs-12">
