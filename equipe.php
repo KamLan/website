@@ -80,7 +80,7 @@
     <div class="container">
       <h3><strong><img src="img/team.png" alt="" />EQUIPE MEDICALE</strong></h3><br>
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 test">
           <a href="" onclick="Display(0); return false;">
             <p><strong>Docteur Gérard BARRAL</strong></p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
@@ -144,15 +144,15 @@
                   "DIU de médecine foetale. <br>"+
                   "DIU de colposcopie et pathologie cervico-vaginale. <br>"+
                 "<h2>Honoraires</h2>"+
-                      "CS: 60€  <br>"+
-                      "Echo 1er Trimestre: 100€ <br>"+
-                      "Echo 2ème Trimestre 130€<br>"+
-                      "Echo 3ème Trimestre 120€<br>"+
-                      "Echo Gynécologique 70-80€ <br>"+
-                      "Pose Stérilet: 70€<br>"+
-                      "Colposcopie: 70€ <br>"+
-                      "Praticien adhérent à une association de gestion agréée. <br>"+
-                      "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
+                      "<ul><li>CS: 60€</li>  <br>"+
+                      "<li>Echo 1er Trimestre: 100€</li> <br>"+
+                      "<li>Echo 2ème Trimestre 130€</li><br>"+
+                      "<li>Echo 3ème Trimestre 120€</li><br>"+
+                      "<li>Echo Gynécologique 70-80€</li> <br>"+
+                      "<li>Pose Stérilet: 70€</Li><br>"+
+                      "<li>Colposcopie: 70€</li> <br>"+
+                      "<li>Praticien adhérent à une association de gestion agréée.</li> <br>"+
+                      "<li>Moyens de paiement acceptés: Chèque et Carte Bancaire.</li></ul>",
               width: 900,
               animation: true,
               showCloseButton: true
