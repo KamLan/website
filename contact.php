@@ -78,7 +78,7 @@
           <div class="row">
             <div class="col-sm-6">
                 <div class="panel-heading">
-                  <h2><strong><img src="img/fax.png" alt="" /> Nous joindre :</strong></h2>
+                  <h2 class="pagetitle"><strong><img src="img/fax.png" alt="" /> Nous joindre :</strong></h2>
                 </div>
                 <div class="panel-body">
                   <h3> <strong>Par téléphone :</strong> </h3>

@@ -13,7 +13,7 @@
     <script src="js/parallax.js"></script>
     <script src="js/es6-promise.auto.min.js"></script>
     <script src="js/sweetalert2.min.js"></script>
-    <link rel="stylesheet" href="css/sweetalert2.min.css">
+    <link rel="stylesheet" href="css/sweetalert2.css">
   </head>
 
   <body>
@@ -78,7 +78,7 @@
     <!-- Equipe medicale block -->
 
     <div class="container">
-      <h3><strong><img src="img/team.png" alt="" />EQUIPE MEDICALE</strong></h3><br>
+      <h2 class="pagetitle"><strong><img src="img/team.png" alt="" />EQUIPE MEDICALE</strong></h2><br>
       <div class="row">
         <div class="col-sm-6 test">
           <a href="" onclick="Display(0); return false;">
@@ -177,10 +177,10 @@
               "<h3>Centre Hospitalier Lyon-Sud</h3>"+
                   "Chirurgie Gynécologique vaginale et célioscopique<br>"+
                   "Cancérologie Mammaire <br>"+
-                  "Consultation Spécialisée : <br>"+
-                   "- Statique Pelvienne <br>"+
-                   "- Fuites Urinaires Féminines <br>"+
-                   "- Pelvi Périnéologie <br>"+
+                  "Consultation Spécialisée : <br><br>"+
+                   "<ul><li>Statique Pelvienne</li> <br>"+
+                   "<li>Fuites Urinaires Féminines</li> <br>"+
+                   "<li>Pelvi Périnéologie </li></ul><br>"+
                    "Bilan Uro-dynamique<br>"+
                    "Echographie Pelvienne 2D, 3D et Ultrasonographique <br>"+
                    "Laser vaginal et vulvaire <br>"+
@@ -196,15 +196,15 @@
                 "DIU de Périnéologie. <br>"+
                 "Praticien Hospitalier temps partiel depuis 1997. <br>"+
                 "<h2>Honoraires</h2>"+
-                      "CS: 60€  <br>"+
-                      "Echo 1er Trimestre: 100€ <br>"+
-                      "Echo 2ème Trimestre 130€<br>"+
-                      "Echo 3ème Trimestre 120€<br>"+
-                      "Echo Gynécologique 70-80€ <br>"+
-                      "Pose Stérilet: 70€<br>"+
-                      "Colposcopie: 70€ <br>"+
-                      "Praticien adhérent à une association de gestion agréée. <br>"+
-                      "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
+                  "<ul><li>CS: 60€</li>  <br>"+
+                  "<li>Echo 1er Trimestre: 100€</li> <br>"+
+                  "<li>Echo 2ème Trimestre 130€</li><br>"+
+                  "<li>Echo 3ème Trimestre 120€</li><br>"+
+                  "<li>Echo Gynécologique 70-80€</li> <br>"+
+                  "<li>Pose Stérilet: 70€</Li><br>"+
+                  "<li>Colposcopie: 70€</li> <br>"+
+                  "<li>Praticien adhérent à une association de gestion agréée.</li> <br>"+
+                  "<li>Moyens de paiement acceptés: Chèque et Carte Bancaire.</li></ul>",
               width: 900,
               animation: true,
               showCloseButton: true
@@ -226,16 +226,16 @@
                   "<strong>Colposcopie </strong> <br>"+
                 "<h3>Centre Hospitalier Sainte-Foy-Lès-Lyon</h3>"+
                   "Accouchements voie basse et césariennes <br>"+
-                  "Chirurgie gynécologique: <br>"+
-                  "- Célioscopie <br>"+
-                  "- Chirurgie vaginale <br>"+
-                  "- Cure prolapsus et incontinence urinaire <br>"+
-                  "- Hystérectomie <br>"+
-                  "- Myoméctomie <br>"+
-                  "- Chirurgie bénigne du sein <br>"+
-                  "- Stérilisation <br>"+
-                  "- Conisation <br>"+
-                  "- Hystéroscopie <br>"+
+                  "Chirurgie gynécologique: <br><br>"+
+                  "<ul><li>Célioscopie </li><br>"+
+                  "<li>Chirurgie vaginale </li><br>"+
+                  "<li>Cure prolapsus et incontinence urinaire </li><br>"+
+                  "<li>Hystérectomie </li><br>"+
+                  "<li>Myoméctomie </li><br>"+
+                  "<li>Chirurgie bénigne du sein </li><br>"+
+                  "<li>Stérilisation </li><br>"+
+                  "<li>Conisation </li><br>"+
+                  "<li>Hystéroscopie </li></ul><br>"+
                 "Gynécologie-obstétricienne, elle se déplace pour les accouchements et pour les opérations chirurgicales à la maternité de Sainte-Foy-Lès-Lyon, basée au 78 chemin de Montray à Sainte-Foy-Lès-Lyon 69110 <br>"+
                 "<h2>Diplômes</h2> "+
                 "Ancien assistant des Hôpitaux de Lyon. <br>"+
@@ -248,15 +248,15 @@
                 "DIU Assistance médicale à la procréation. <br>"+
                 "DIU Colposcopie et pathologies cervico-vaginale. <br>"+
                 "<h2>Honoraires</h2>"+
-                      "CS: 60€  <br>"+
-                      "Echo 1er Trimestre: 100€ <br>"+
-                      "Echo 2ème Trimestre 130€<br>"+
-                      "Echo 3ème Trimestre 120€<br>"+
-                      "Echo Gynécologique 70-80€ <br>"+
-                      "Pose Stérilet: 70€<br>"+
-                      "Colposcopie: 70€ <br>"+
-                      "Praticien adhérent à une association de gestion agréée. <br>"+
-                      "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
+                  "<ul><li>CS: 60€</li>  <br>"+
+                  "<li>Echo 1er Trimestre: 100€</li> <br>"+
+                  "<li>Echo 2ème Trimestre 130€</li><br>"+
+                  "<li>Echo 3ème Trimestre 120€</li><br>"+
+                  "<li>Echo Gynécologique 70-80€</li> <br>"+
+                  "<li>Pose Stérilet: 70€</Li><br>"+
+                  "<li>Colposcopie: 70€</li> <br>"+
+                  "<li>Praticien adhérent à une association de gestion agréée.</li> <br>"+
+                  "<li>Moyens de paiement acceptés: Chèque et Carte Bancaire.</li></ul>",
               width: 900,
               animation: true,
               showCloseButton: true
@@ -288,12 +288,12 @@
                 "DU de périnéologie"+
                 "DIU de Sexologie en cours de validation<br>" +
                 "<h2>Honoraires</h2> "+
-                "Consulatation:"+
-                "entretien prénatal:"+
-                "Séance de rééducation périnéale:"+
-                "Consulatation de séxologie:"+
-                "Praticien adhérent à une association de gestion agréée. <br>"+
-                "Moyens de paiement acceptés: Chèque",
+                  "<ul><li>Consulatation:</li> <br>"+
+                  "<li>entretien prénatal:</li> <br>"+
+                  "<li>Séance de rééducation périnéale:</li> <br>"+
+                  "<li>Consulatation de séxologie:</li> <br>"+
+                  "<li>Praticien adhérent à une association de gestion agréée.</li> <br>"+
+                  "<li>Moyens de paiement acceptés: Chèque</li> </ul>",
               width: 900,
               animation: true,
               showCloseButton: true

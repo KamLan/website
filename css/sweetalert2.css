@@ -6,6 +6,20 @@ body.swal2-iosfix {
   left: 0;
   right: 0; }
 
+/*MYCSS*/
+
+ul {
+	list-style-type: none;
+}
+
+body .swal2-container ul li:before {
+	content: "\2022";
+	margin-right: 10px;
+	color: #2E9AFE;
+}
+
+
+
 .swal2-container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -45,7 +59,7 @@ body.swal2-iosfix {
   .swal2-modal.swal2-loading {
     overflow-y: hidden; }
   .swal2-modal h2 {
-    color: #595959;
+    color: #2E9AFE;
     font-size: 30px;
     text-align: center;
     font-weight: 600;
@@ -128,7 +142,7 @@ body.swal2-iosfix {
     display: none; }
   .swal2-modal .swal2-content {
     font-size: 18px;
-    text-align: center;
+    text-align: left;
     font-weight: 300;
     position: relative;
     float: none;

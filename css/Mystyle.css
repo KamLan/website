@@ -11,6 +11,10 @@
 
 /* top band */
 
+header h2 strong{
+  color: #2E9AFE;
+}
+
 .topband{
   font-family: "bebas neue";
 }
@@ -27,6 +31,18 @@ nav{
   font-family: "bebas neue";
 }
 
+.navbar-brand i{
+  color: #2E9AFE;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+  color: #2E9AFE;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+  color: #2E9AFE;
+}
+
 .col-sm-8 h3 strong{
   font-size: 30px;
 }
@@ -41,6 +57,10 @@ body{
 
 body p{
   font-size: 1.2em;
+}
+
+.pagetitle strong{
+  color: #2E9AFE;
 }
 
 .col-sm-6 img {
