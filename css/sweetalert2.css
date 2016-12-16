@@ -18,6 +18,13 @@ body .swal2-container ul li:before {
 	color: #2E9AFE;
 }
 
+button{
+  background-color: #2E9AFE;
+}
+
+button:hover{
+  background-color: #2E9AFE;
+}
 
 
 .swal2-container {
