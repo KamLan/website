@@ -172,6 +172,7 @@
                   "Sénologie <br>"+
                   "Echographie Gynécologique (2D et 3D) <br>"+
                   "Gynécologie Médicale et contraception <br>"+
+                  "Colposcopie"+
                   "Suivi de grossesse <br>"+
                   "<strong>Echographie Obstétricale avec agrément pour le depistage de la trisomie 21 </strong> <br>"+
               "<h3>Centre Hospitalier Lyon-Sud</h3>"+
