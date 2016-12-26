@@ -80,21 +80,21 @@
     <div class="container equipe">
       <h2 class="pagetitle"><strong><img src="img/team.png" alt="" />EQUIPE MEDICALE</strong></h2><br>
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-3">
           <a href="" onclick="Display(0); return false;">
             <p><strong>Docteur Gérard BARRAL</strong></p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-sm-3">
           <a href="" onclick="Display(1); return false;">
             <p><strong>Docteur Franck JACQUOT</strong></p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
           </a>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-sm-3">
           <a href="" onclick="Display(2); return false;">
             <p><strong>Docteur Irina HERGHEA</strong></p>
 
@@ -104,7 +104,7 @@
 
             </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-3">
           <a href="" onclick="Display(3); return false;">
             <p><strong>Marlène BARRAL, Sage-femme</strong></p>
             <img src="img/person.jpg" class="img-responsive" style="width:100%" alt="Image">
