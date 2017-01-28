@@ -19,19 +19,22 @@
 
     <header>
       <div class="jumbotron topband">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-8">
+        <div class="">
+          <div class="row" style="margin:0px;">
+            <div class="col-sm-9">
               <h2>
                 <strong>
                   Cabinet de gynecologie, obstétrique et échographie
                 </strong>
               </h2>
               <h3>
-                <strong>D</strong>r Gérard <strong>BARRAL</strong>, <strong>D</strong>r Franck <strong>JACQUOT</strong>, <strong>D</strong>r Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
+                <span class="titredoc"><strong>D</strong>r Gérard <strong>BARRAL</strong>,</span>
+                <span class="titredoc"><strong>D</strong>r Franck <strong>JACQUOT</strong>,</span>
+                <span><strong>D</strong>r Irina <strong>HERGHEA</strong>,</span>
+                <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <h3>
                 12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
@@ -71,7 +74,6 @@
       </section>
 
     </header>
-
     <!-- Cabinet block -->
 
     <div class="container col-sm-12">
@@ -94,19 +96,20 @@
               </p>
               <h3><strong>Plateau technique :</strong></h3>
               <p>
-                Dossiers médicaux informatisés avec logiciel AXISANTE. <br>
-                Feuilles de soins électroniques avec la carte vitale par logiciel AXIAM. <br>
-                Résultats d'examens informatisés avec Bioserveur APYCRIPT. <br>
-                Echographie VOLUSON E6 (2D - 3D et 4D). <br>
-                Colposcope CARL ZEISS. <br>
-                Appareil de rééducation périnéale PHENIX Uro 4. <br>
-                Monitoring EDAN F6 <br>
-                Matériel à usage unique ou stérilisation à chaleur humide avec appreil EURONDA.
+                Dossiers médicaux informatisés avec le logiciel Axisante. <br>
+                Feuilles de soins électroniques établient avec la carte vitale par logiciel Axiam. <br>
+                Résultats d'examens informatisés avec le bioserveur Apycript. <br>
+                Echographe VOLUSON E6 (2D - 3D et 4D). <br>
+                Colposcope Carl Zeiss. <br>
+                Appareil de rééducation périnéale Phenix Uro 4. <br>
+                Monitoring Edan F6 <br>
+                Utilisation préferentielle de matériel à usage unique. <br>
+                Si besoin stérilisation par chaleur humide avec stérélisateur Euronda.<br>
               </p>
             </div>
         </div>
         <div class="col-sm-6">
-          <img src="img\wood.jpg" alt="" />
+          <img src="img\salle.jpg" alt="" />
         </div>
       </div>
     </div><br><br>

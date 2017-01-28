@@ -9,14 +9,34 @@
     src: url('../fonts/bebas/BebasNeue.otf');
 }
 
+@font-face {
+    font-family: 'caviar_dreamsbold';
+    src: url('caviardreams_bold-webfont.woff2') format('woff2'),
+         url('caviardreams_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* top band */
 
+header{
+  background-color: #E55C5C;
+}
+div.jumbotron{
+  background-color: #E55C5C;
+}
+
 header h2 strong{
-  color: #2E9AFE;
+  color: black;
+  font-size:50px;
+}
+
+span.titredoc{
+  margin-right:2%;
 }
 
 .topband{
-  font-family: "bebas neue";
+  font-family: 'caviar_dreamsbold';
 }
 .topband div div div h2{
   text-align: center;
@@ -32,15 +52,15 @@ nav{
 }
 
 .navbar-brand i{
-  color: #2E9AFE;
+  color: white;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
-  color: #2E9AFE;
+  color: white;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
-  color: #2E9AFE;
+  color: white;
 }
 
 .col-sm-8 h3 strong{
@@ -61,11 +81,16 @@ body{
 }
 
 body p{
+  color:black;
   font-size: 1.2em;
 }
 
 .pagetitle strong{
-  color: #2E9AFE;
+  color: #E55C5C;
+}
+
+.pagetitle strong img{
+  vertical-align: bottom;
 }
 
 .col-sm-6 img {

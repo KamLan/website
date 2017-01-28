@@ -19,19 +19,22 @@
 
     <header>
       <div class="jumbotron topband">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-8">
+        <div class="">
+          <div class="row" style="margin:0px;">
+            <div class="col-sm-9">
               <h2>
                 <strong>
                   Cabinet de gynecologie, obstétrique et échographie
                 </strong>
               </h2>
               <h3>
-                <strong>D</strong>r Gérard <strong>BARRAL</strong>, <strong>D</strong>r Franck <strong>JACQUOT</strong>, <strong>D</strong>r Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
+                <span class="titredoc"><strong>D</strong>r Gérard <strong>BARRAL</strong>,</span>
+                <span class="titredoc"><strong>D</strong>r Franck <strong>JACQUOT</strong>,</span>
+                <span><strong>D</strong>r Irina <strong>HERGHEA</strong>,</span>
+                <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <h3>
                 12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
@@ -81,7 +84,7 @@
               <h2 class="pagetitle"><strong><img src="img/information-point.png" alt="" />INFORMATIONS :</strong></h2>
             </div>
             <div class="panel-body">
-              <h3> Médicale : </h3>
+              <h3> Informations médicale : </h3>
               <p>
                 Informations Grossesse <br>
                 Informations Echo <br>
@@ -92,7 +95,7 @@
                 Plus d'informations : <a href="https://www.aurore-perinat.org/">Site AURORE</a> <br>
                 Plus d'informations : <a href="http://www.cngof.fr/">Site COLLÈGE NATIONAL DES GYNÉCOLOGUES ET OBSTÉTRICIENS FRANÇAIS (CNGOF)</a>
               </p>
-              <h3>Administrative :</h3>
+              <h3>Informations administrative :</h3>
               <p>
                 <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> <br>
                 <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html">Centre Hospitalier Lyon-Sud</a>.

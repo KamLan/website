@@ -19,19 +19,22 @@
 
     <header>
       <div class="jumbotron topband">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-8">
+        <div class="">
+          <div class="row" style="margin:0px;">
+            <div class="col-sm-9">
               <h2>
                 <strong>
                   Cabinet de gynecologie, obstétrique et échographie
                 </strong>
               </h2>
               <h3>
-                <strong>D</strong>r Gérard <strong>BARRAL</strong>, <strong>D</strong>r Franck <strong>JACQUOT</strong>, <strong>D</strong>r Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
+                <span class="titredoc"><strong>D</strong>r Gérard <strong>BARRAL</strong>,</span>
+                <span class="titredoc"><strong>D</strong>r Franck <strong>JACQUOT</strong>,</span>
+                <span><strong>D</strong>r Irina <strong>HERGHEA</strong>,</span>
+                <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <h3>
                 12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
@@ -71,7 +74,6 @@
       </section>
 
     </header>
-
     <!-- Contact block -->
 
         <div class="container backback col-sm-12">
@@ -81,47 +83,57 @@
                   <h2 class="pagetitle"><strong><img src="img/fax.png" alt="" /> Nous joindre :</strong></h2>
                 </div>
                 <div class="panel-body">
+
+                  <h1><strong>Consultation au cabinet</strong></h1>
                   <h3> <strong>Par téléphone :</strong> </h3>
                   <p>
                     Prise de rendez-vous au 04.78.59.82.51 assurée par  secrétaires médicales diplomées.
                   </p>
                   <p>
-                    Horaire d'accueil téléphonique du lundi au vendredi de 10h à 12h et de 14h à 18h.
+                    Horaires d'accueil téléphonique du lundi au vendredi de 10h à 12h et de 14h à 18h.
 
                   </p>
-                  <h3><strong>Par courriel :</strong></h3>
+                  <h1><strong>Préparation à l'accouchement par Marlène Barral</strong></h1>
                   <p>
-                    secretariat@cabinetgyneco.com
+                    Accueil Maternité CH Sainte-Foy-Lès Lyon : 04.72.16.86.68
                   </p>
-                  <h3><strong>Par fax :</strong></h3>
-                  <p>
-                    04.78.59.71.43
-                  </p>
-                  <h3><strong>Surveillance de grossesse à domicile par Sage-femme :</strong></h3>
+                  <h1><strong>Surveillance de grossesse et du post-partum à domicile par Sage-femme :</strong></h1>
                   <p>
                     Portable Marlène BARRAL : 07.61.63.24.76.
                   </p>
-                  <h3> <strong>Préparation à l'accouchement :</strong></h3>
+                  <h1><strong>Pour les urgences en dehors des heures du secretariat :</strong></h1>
+                  <h2>
+                    Grossesse et gynécologie
+                  </h2>
                   <p>
-                    Marlène BARRAL : 04.72.16.86.68.
+                    Urgences maternité CH Sainte-Foy-Lès Lyon: 07.72.16.86.05
                   </p>
-                  <h3><strong>Pour les urgences en dehors des heures du secrétariat :</strong></h3>
+
+                  <h2>Suites chirugicales du Docteur Jacquot</h2>
                   <p>
-                    Grossesse: Salle d'accouchement Hôpital de Sainte-Foy-Lès-Lyon: 04.72.16.86.05.
+                    Service G1, CHU Lyon Sud: 07.78.86.13.89
                   </p>
+                  <h2>Urgences vitales</h2>
                   <p>
-                    Gynécologie: Service d'urgences Hôpital Sainte-Foy-Lès-Lyon : 04.72.16.86.05.
+                    Appeler le 15.
                   </p>
+
+                  <h1><strong>Courriel :</strong></h1>
                   <p>
-                    Suites chirurgicale du Dr JACQUOT: service G1 CHU Lyon-Sud: 04.78.86.13.89.
+                    secretariat@cabinetgyneco.com
                   </p>
+
+                  <h1><strong>Fax :</strong></h1>
                   <p>
-                    Urgences vitales: Appeler le 15
+                    04.78.59.71.43
                   </p>
                 </div>
             </div>
             <div class="col-sm-6">
-              <img src="img\landscape.jpg" alt="" />
+              <img src="img\EC.jpg" alt="" />
+            </div>
+            <div class="col-sm-6">
+              <img src="img\PE.jpg" alt="" />
             </div>
             <div class="col-sm-12">
                 <div class="panel-heading">

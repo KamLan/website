@@ -19,19 +19,22 @@
 
     <header>
       <div class="jumbotron topband">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-8">
+        <div class="">
+          <div class="row" style="margin:0px;">
+            <div class="col-sm-9">
               <h2>
                 <strong>
                   Cabinet de gynecologie, obstétrique et échographie
                 </strong>
               </h2>
               <h3>
-                <strong>D</strong>r Gérard <strong>BARRAL</strong>, <strong>D</strong>r Franck <strong>JACQUOT</strong>, <strong>D</strong>r Irina <strong>HERGHEA</strong>, <br> Marlène <strong>BARRAL</strong> Sage-femme
+                <span class="titredoc"><strong>D</strong>r Gérard <strong>BARRAL</strong>,</span>
+                <span class="titredoc"><strong>D</strong>r Franck <strong>JACQUOT</strong>,</span>
+                <span><strong>D</strong>r Irina <strong>HERGHEA</strong>,</span>
+                <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <h3>
                 12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
@@ -75,25 +78,48 @@
     <!-- Home block -->
     <section>
       <div class="container col-sm-12">
-        <div class="row">
+        <div class="">
           <div class="col-sm-6">
-            <img src="img\landscape.jpg" alt="" />
+            <img src="img\home-min.jpg" alt="" />
           </div>
           <div class="col-sm-6">
               <div class="panel-heading">
-                <h2 class="pagetitle"><strong><img src="img/house.png" alt="" /> ACCUEIL</strong></h2>
+                <h2 class="pagetitle"><strong><img src="img/house.png" alt="" />ACCUEIL</strong></h2>
               </div>
               <div class="panel-body">
                 <h3></h3>
                 <p>
-                  Le cabinet de gynécologie obstétrique et échographie des Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et la sage-femme M. BARRAL assurent la prise en charge des consulations d'obstétrique, de gynécologie médicale,
-                  de gynécologie chirurgicale, d'échographie gynécologique et obstétricale ainsi que la préparation à l'accouchement, la rééducation périnéale et le suivi à domicile des grossesses pathologiques. <br><br>
-                  Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge dans le service de gynécologie obstétrique du
-                  <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> ou du
-                  <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html">Centre Hospitalier Lyon-Sud</a>.
+                  Le cabinet de gynécologie obstétrique et échographie des <a href="equipe.php" style="color:#E55C5C;">Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et la sage-femme M. BARRAL</a> assurent:
+                  <ul>
+                    <li>
+                      Les consultations de suivi de grossesse
+                    </li>
+                    <li>
+                      Les consultations de gynécologie médical et chirurgicale
+                    </li>
+                    <li>
+                      Les échographies obstétricale et gynécologiques
+                    </li>
+                    <li>
+                      Les colposcopies
+                    </li>
+                    <li>
+                      L'entretien prénatal
+                    </li>
+                    <li>
+                      Les consultations de sexologie
+                    </li>
+                    <li>
+                      La réeducation périnéale
+                    </li>
+                  </ul>
+                <p>
+                  Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge selon l'opérateur sur le plateau technique du
+                  <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" style="color:#E55C5C;">CH de Sainte-Foy-Lès-Lyon</a> ou du
+                  <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" style="color:#E55C5C;">CHU de Lyon-Sud</a>.
                 </p>
                 <p>
-
+                  La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon. Le suivi à domicile est assuré pour les grossesses pathologique et le retour de la maternité.
                 </p>
                 <h3></h3>
                 <p>
