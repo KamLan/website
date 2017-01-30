@@ -82,10 +82,10 @@
                 <div class="panel-heading">
                   <h2 class="pagetitle"><strong><img src="img/fax.png" alt="" /> Nous joindre :</strong></h2>
                 </div>
-                <div class="panel-body">
+                <div class="panel-body contactblock">
 
                   <h1><strong>Consultation au cabinet</strong></h1>
-                  <h3> <strong>Par téléphone :</strong> </h3>
+                  <h2> <strong>Par téléphone :</strong> </h2>
                   <p>
                     Prise de rendez-vous au 04.78.59.82.51 assurée par  secrétaires médicales diplomées.
                   </p>
@@ -103,17 +103,17 @@
                   </p>
                   <h1><strong>Pour les urgences en dehors des heures du secretariat :</strong></h1>
                   <h2>
-                    Grossesse et gynécologie
+                    <strong>Grossesse et gynécologie</strong>
                   </h2>
                   <p>
                     Urgences maternité CH Sainte-Foy-Lès Lyon: 07.72.16.86.05
                   </p>
 
-                  <h2>Suites chirugicales du Docteur Jacquot</h2>
+                  <h2><strong>Suites chirugicales du Docteur Jacquots</strong></h2>
                   <p>
                     Service G1, CHU Lyon Sud: 07.78.86.13.89
                   </p>
-                  <h2>Urgences vitales</h2>
+                  <h2><strong>Urgences vitales</strong></h2>
                   <p>
                     Appeler le 15.
                   </p>
@@ -129,10 +129,10 @@
                   </p>
                 </div>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-6 contactimg">
               <img src="img\EC.jpg" alt="" />
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-6 contactimg">
               <img src="img\PE.jpg" alt="" />
             </div>
             <div class="col-sm-12">

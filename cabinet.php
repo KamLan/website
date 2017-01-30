@@ -91,21 +91,6 @@
                 1 secrétariat <br>
                 1 Salle de stérilisation
               </p>
-              <p>
-
-              </p>
-              <h3><strong>Plateau technique :</strong></h3>
-              <p>
-                Dossiers médicaux informatisés avec le logiciel Axisante. <br>
-                Feuilles de soins électroniques établient avec la carte vitale par logiciel Axiam. <br>
-                Résultats d'examens informatisés avec le bioserveur Apycript. <br>
-                Echographe VOLUSON E6 (2D - 3D et 4D). <br>
-                Colposcope Carl Zeiss. <br>
-                Appareil de rééducation périnéale Phenix Uro 4. <br>
-                Monitoring Edan F6 <br>
-                Utilisation préferentielle de matériel à usage unique. <br>
-                Si besoin stérilisation par chaleur humide avec stérélisateur Euronda.<br>
-              </p>
             </div>
         </div>
         <div class="col-sm-6">
@@ -113,6 +98,28 @@
         </div>
       </div>
     </div><br><br>
+    <div class="container colsm-12">
+      <div class="row">
+        <div class="panel-body">
+          <h3><strong>Plateau technique :</strong></h3>
+            <div class="col-md-6">
+              Dossiers médicaux informatisés avec le logiciel Axisante. <br>
+              Feuilles de soins électroniques établient avec la carte vitale par logiciel Axiam. <br>
+              Résultats d'examens informatisés avec le bioserveur Apycript. <br>
+              Echographe VOLUSON E6 (2D - 3D et 4D). <br>
+              Colposcope Carl Zeiss. <br>
+            </div>
+            <div class="col-md-6">
+              Appareil de rééducation périnéale Phenix Uro 4. <br>
+              Monitoring Edan F6 <br>
+              Utilisation préferentielle de matériel à usage unique. <br>
+              Si besoin stérilisation par chaleur humide avec stérélisateur Euronda.<br>
+            </div>
+        </div>
+
+      </div>
+
+    </div>
 
   </body>
 </html>

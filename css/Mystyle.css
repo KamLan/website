@@ -109,6 +109,18 @@ body p{
   width: 100%;
 }
 
+div.col-sm-6.contactimg{
+  margin-top: 10%;
+}
+
+div.panel-body.contactblock h2{
+  margin-left:5%;
+}
+
+div.panel-body.contactblock p{
+  margin-left: 10%;
+}
+
 /* EQUIPE */
 
 .equipe a{
@@ -116,8 +128,8 @@ body p{
   color: #101010;
 }
 
-.equipe a:hover{
-  color: #2E9AFE;
+.equipe a p:hover{
+  color: #E55C5C;
 }
 
 .equipe .col-sm-6{

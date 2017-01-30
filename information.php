@@ -86,7 +86,7 @@
             <div class="panel-body">
               <h3> Informations médicale : </h3>
               <p>
-                Informations Grossesse <br>
+                <a href="files/Amniocentèse.pdf">Informations Grossesse</a> <br>
                 Informations Echo <br>
                 Informations Echo 3D <br>
                 Informations Toxoplasmose <br>
