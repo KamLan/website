@@ -83,27 +83,33 @@
             <div class="panel-heading">
               <h2 class="pagetitle"><strong><img src="img/information-point.png" alt="" />INFORMATIONS :</strong></h2>
             </div>
-            <div class="panel-body">
+            <div class="panel-body col-md-12">
               <h3> Informations médicale : </h3>
-              <p>
-                <a href="files/Amniocentese.pdf" target="_blank">Informations Amniocentèse</a> <br>
-                <a href="files/fiche_cesarienne.pdf" target="_blank">Informations Césarienne prophylactique</a> <br>
-                <a href="files/dietetique.pdf" target="_blank">Information diététique</a> <br>
-                <a href="files/prevention_cytomegalovirus.jpeg" target="_blank">Informations CMV (CytoMégaloVirus)</a> <br>
-                <a href="files/echographie.pdf" target="_blank">Informations Echo</a> <br>
-                Informations Echo 3D <br>
-                <a href="files/Frottis_cervical_depistage.pdf" target="_blank">Informations frottis et dépistages</a> <br>
-                <a href="files/informations_generales.pdf" target="_blank">Informations Grossesse</a> <br>
-                <a href="files/fiche_listeriose.pdf" target="_blank">Informations Listériose</a> <br>
-                <a href="files/preparation_naissance.pdf" target="_blank">Informations préparation à la naissance</a> <br>
-                <a href="files/Presentation_siege.pdf" target="_blank">Informations présentation du siège</a> <br>
-                <a href="files/information_toxoplasmose.pdf" target="_blank">Informations Toxoplasmose</a> <br>
-                <a href="files/depistage_trisomie21.pdf" target="_blank">Informations dépistage Trisomie 21</a> <br>
-                <a href="files/fiche_uteruscicatriciel.pdf" target="_blank">Informations utérus cicatriciel</a> <br>
-                <a href="files/info-version-manoeuvres.pdf" target="_blank">Informations version par manoeuvres externe</a> <br>
-                Plus d'informations : <a href="https://www.aurore-perinat.org/" target="_blank">Site AURORE</a> <br>
-                Plus d'informations : <a href="http://www.cngof.fr/" target="_blank">Site COLLÈGE NATIONAL DES GYNÉCOLOGUES ET OBSTÉTRICIENS FRANÇAIS (CNGOF)</a>
-              </p>
+              <div class="col-md-6">
+                <p>
+                  <a href="files/Amniocentese.pdf" target="_blank">Informations Amniocentèse</a> <br>
+                  <a href="files/fiche_cesarienne.pdf" target="_blank">Informations Césarienne prophylactique</a> <br>
+                  <a href="files/dietetique.pdf" target="_blank">Information diététique</a> <br>
+                  <a href="files/prevention_cytomegalovirus.jpeg" target="_blank">Informations CMV (CytoMégaloVirus)</a> <br>
+                  <a href="files/echographie.pdf" target="_blank">Informations Echo</a> <br>
+                  Informations Echo 3D <br>
+                  <a href="files/Frottis_cervical_depistage.pdf" target="_blank">Informations frottis et dépistages</a> <br>
+                  <a href="files/informations_generales.pdf" target="_blank">Informations Grossesse</a> <br>
+                  <a href="files/fiche_listeriose.pdf" target="_blank">Informations Listériose</a> <br>
+                </p>
+              </div>
+              <div class="col-md-6">
+                <p>
+                  <a href="files/preparation_naissance.pdf" target="_blank">Informations préparation à la naissance</a> <br>
+                  <a href="files/Presentation_siege.pdf" target="_blank">Informations présentation du siège</a> <br>
+                  <a href="files/information_toxoplasmose.pdf" target="_blank">Informations Toxoplasmose</a> <br>
+                  <a href="files/depistage_trisomie21.pdf" target="_blank">Informations dépistage Trisomie 21</a> <br>
+                  <a href="files/fiche_uteruscicatriciel.pdf" target="_blank">Informations utérus cicatriciel</a> <br>
+                  <a href="files/info-version-manoeuvres.pdf" target="_blank">Informations version par manoeuvres externe</a> <br>
+                  Plus d'informations : <a href="https://www.aurore-perinat.org/" target="_blank">Site AURORE</a> <br>
+                  Plus d'informations : <a href="http://www.cngof.fr/" target="_blank">Site COLLÈGE NATIONAL DES GYNÉCOLOGUES ET OBSTÉTRICIENS FRANÇAIS (CNGOF)</a>
+                </p>
+              </div>
               <h3>Informations administrative :</h3>
               <p>
                 <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" target="_blank">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> <br>
