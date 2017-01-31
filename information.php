@@ -86,19 +86,28 @@
             <div class="panel-body">
               <h3> Informations médicale : </h3>
               <p>
-                <a href="files/Amniocentèse.pdf">Informations Grossesse</a> <br>
-                Informations Echo <br>
+                <a href="files/Amniocentese.pdf" target="_blank">Informations Amniocentèse</a> <br>
+                <a href="files/fiche_cesarienne.pdf" target="_blank">Informations Césarienne prophylactique</a> <br>
+                <a href="files/dietetique.pdf" target="_blank">Information diététique</a> <br>
+                <a href="files/prevention_cytomegalovirus.jpeg" target="_blank">Informations CMV (CytoMégaloVirus)</a> <br>
+                <a href="files/echographie.pdf" target="_blank">Informations Echo</a> <br>
                 Informations Echo 3D <br>
-                Informations Toxoplasmose <br>
-                Informations CMV (CytoMégaloVirus) <br>
-                Informations Listériose <br>
-                Plus d'informations : <a href="https://www.aurore-perinat.org/">Site AURORE</a> <br>
-                Plus d'informations : <a href="http://www.cngof.fr/">Site COLLÈGE NATIONAL DES GYNÉCOLOGUES ET OBSTÉTRICIENS FRANÇAIS (CNGOF)</a>
+                <a href="files/Frottis_cervical_depistage.pdf" target="_blank">Informations frottis et dépistages</a> <br>
+                <a href="files/informations_generales.pdf" target="_blank">Informations Grossesse</a> <br>
+                <a href="files/fiche_listeriose.pdf" target="_blank">Informations Listériose</a> <br>
+                <a href="files/preparation_naissance.pdf" target="_blank">Informations préparation à la naissance</a> <br>
+                <a href="files/Presentation_siege.pdf" target="_blank">Informations présentation du siège</a> <br>
+                <a href="files/information_toxoplasmose.pdf" target="_blank">Informations Toxoplasmose</a> <br>
+                <a href="files/depistage_trisomie21.pdf" target="_blank">Informations dépistage Trisomie 21</a> <br>
+                <a href="files/fiche_uteruscicatriciel.pdf" target="_blank">Informations utérus cicatriciel</a> <br>
+                <a href="files/info-version-manoeuvres.pdf" target="_blank">Informations version par manoeuvres externe</a> <br>
+                Plus d'informations : <a href="https://www.aurore-perinat.org/" target="_blank">Site AURORE</a> <br>
+                Plus d'informations : <a href="http://www.cngof.fr/" target="_blank">Site COLLÈGE NATIONAL DES GYNÉCOLOGUES ET OBSTÉTRICIENS FRANÇAIS (CNGOF)</a>
               </p>
               <h3>Informations administrative :</h3>
               <p>
-                <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> <br>
-                <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html">Centre Hospitalier Lyon-Sud</a>.
+                <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" target="_blank">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> <br>
+                <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" target="_blank">Centre Hospitalier Lyon-Sud</a>.
               </p>
             </div>
         </div>
