@@ -210,8 +210,8 @@
                   "<li>Echo Gynécologique 70-80€</li> <br>"+
                   "<li>Pose Stérilet: 70€</Li><br>"+
                   "<li>Colposcopie: 70€</li> <br>"+
-                  "<li>Praticien adhérent à une association de gestion agréée.</li> <br>"+
-                  "<li>Moyens de paiement acceptés: Chèque et Carte Bancaire.</li></ul>",
+                  "Praticien adhérent à une association de gestion agréée. <br>"+
+                  "Moyens de paiement acceptés: Chèque et Carte Bancaire.</ul>",
               width: 900,
               animation: true,
               showCloseButton: true
@@ -265,8 +265,8 @@
                   "<li>Echo Gynécologique 70-80€</li> <br>"+
                   "<li>Pose Stérilet: 70€</Li><br>"+
                   "<li>Colposcopie: 70€</li> <br>"+
-                  "<li>Praticien adhérent à une association de gestion agréée.</li> <br>"+
-                  "<li>Moyens de paiement acceptés: Chèque et Carte Bancaire.</li></ul>",
+                  "Praticien adhérent à une association de gestion agréée. <br>"+
+                  "Moyens de paiement acceptés: Chèque et Carte Bancaire.</ul>",
               width: 900,
               animation: true,
               showCloseButton: true

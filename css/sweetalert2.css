@@ -15,15 +15,15 @@ ul {
 body .swal2-container ul li:before {
 	content: "\2022";
 	margin-right: 10px;
-	color: #2E9AFE;
+	color: #E55C5C;
 }
 
 button{
-  background-color: #2E9AFE;
+  background-color: #E55C5C;
 }
 
 button:hover{
-  background-color: #2E9AFE;
+  background-color: #E55C5C;
 }
 
 
@@ -66,7 +66,7 @@ button:hover{
   .swal2-modal.swal2-loading {
     overflow-y: hidden; }
   .swal2-modal h2 {
-    color: #2E9AFE;
+    color: #E55C5C;
     font-size: 30px;
     text-align: center;
     font-weight: 600;

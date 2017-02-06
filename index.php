@@ -80,7 +80,7 @@
 
     <!-- Home block -->
     <section>
-      <div class="container col-sm-12">
+      <div class="container col-sm-12 homepage">
         <div class="">
           <div class="col-sm-6">
             <img src="img\home-min.jpg" alt="" />
@@ -116,19 +116,17 @@
                       La réeducation périnéale
                     </li>
                   </ul>
-                <p>
-                  Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge selon l'opérateur sur le plateau technique du
-                  <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" style="color:#E55C5C;">CH de Sainte-Foy-Lès-Lyon</a> ou du
-                  <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" style="color:#E55C5C;">CHU de Lyon-Sud</a>.
-                </p>
-                <p>
-                  La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon. Le suivi à domicile est assuré pour les grossesses pathologique et le retour de la maternité.
-                </p>
-                <h3></h3>
-                <p>
-
-                </p>
               </div>
+          </div>
+          <div class="col-md-12">
+            <p>
+              Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge selon l'opérateur sur le plateau technique du
+              <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" style="color:#E55C5C;">CH de Sainte-Foy-Lès-Lyon</a> ou du
+              <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" style="color:#E55C5C;">CHU de Lyon-Sud</a>.
+            </p>
+            <p>
+              La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon. Le suivi à domicile est assuré pour les grossesses pathologique et le retour de la maternité.
+            </p>
           </div>
         </div>
       </div><br><br>

@@ -97,12 +97,13 @@ body p{
 	max-width: 100%;
 	max-height: auto;
 }
-/*Parallax*/
 
-.parallax-container {
-    min-height: 400px;
-    background: transparent;
-}
+/*HOME*/
+  div.homepage ul{
+    color:black;
+    font-size:1.2em;
+  }
+
 /*CONTACT*/
 
 .panel-body iframe{
@@ -134,6 +135,11 @@ div.panel-body.contactblock p{
 
 .equipe .col-sm-6{
   margin-top: 5%;
+}
+
+button.swal2-confirm.swal2-styled{
+  background-color:#E55C5C !important;
+  border-color: #E55C5C !important;
 }
 
 
