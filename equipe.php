@@ -180,13 +180,13 @@
                   "Gynécologie Médicale et contraception <br>"+
                   "Colposcopie <br>"+
                   "Suivi de grossesse <br>"+
-                  "<strong>Echographie Obstétricale avec agrément pour le depistage de la trisomie 21 </strong> <br>"+
+                  "Echographie Obstétricale avec agrément pour le depistage de la trisomie 21 <br>"+
               "<h3>Centre Hospitalier Lyon-Sud</h3>"+
                   "Chirurgie Gynécologique vaginale et coelioscopique<br>"+
                   "Cancérologie Mammaire <br>"+
                   "Consultation Spécialisée : <br><br>"+
-                   "<ul><li>Statique Pelvienne</li> <br>"+
-                   "<li>Fuites Urinaires Féminines</li> <br>"+
+                   "<ul><li>Statique Pelvienne</li> "+
+                   "<li>Fuites Urinaires Féminines</li>"+
                    "<li>Pelvi Périnéologie </li></ul><br>"+
                    "Bilan Uro-dynamique<br>"+
                    "Echographie Pelvienne 2D, 3D et Ultrasonographique <br>"+
@@ -203,15 +203,15 @@
                 "DIU de Périnéologie. <br>"+
                 "Praticien Hospitalier temps partiel depuis 1997. <br>"+
                 "<h2>Honoraires</h2>"+
-                  "<ul><li>CS: 60€</li>  <br>"+
-                  "<li>Echo 1er Trimestre: 100€</li> <br>"+
-                  "<li>Echo 2ème Trimestre 130€</li><br>"+
-                  "<li>Echo 3ème Trimestre 120€</li><br>"+
-                  "<li>Echo Gynécologique 70-80€</li> <br>"+
-                  "<li>Pose Stérilet: 70€</Li><br>"+
-                  "<li>Colposcopie: 70€</li> <br>"+
+                  "<ul><li>CS: 60€</li>  "+
+                  "<li>Echo 1er Trimestre: 100€</li> "+
+                  "<li>Echo 2ème Trimestre 130€</li>"+
+                  "<li>Echo 3ème Trimestre 120€</li>"+
+                  "<li>Echo Gynécologique 70-80€</li> "+
+                  "<li>Pose Stérilet: 70€</Li>"+
+                  "<li>Colposcopie: 70€</li></ul> <br> "+
                   "Praticien adhérent à une association de gestion agréée. <br>"+
-                  "Moyens de paiement acceptés: Chèque et Carte Bancaire.</ul>",
+                  "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
               width: 900,
               animation: true,
               showCloseButton: true
@@ -237,14 +237,14 @@
                 "<h3>Centre Hospitalier Sainte-Foy-Lès-Lyon</h3>"+
                   "Accouchements voie basse et césariennes <br>"+
                   "Chirurgie gynécologique: <br><br>"+
-                  "<ul><li>Célioscopie </li><br>"+
-                  "<li>Chirurgie vaginale </li><br>"+
-                  "<li>Cure prolapsus et incontinence urinaire </li><br>"+
-                  "<li>Hystérectomie </li><br>"+
-                  "<li>Myoméctomie </li><br>"+
-                  "<li>Chirurgie bénigne du sein </li><br>"+
-                  "<li>Stérilisation </li><br>"+
-                  "<li>Conisation </li><br>"+
+                  "<ul><li>Célioscopie </li>"+
+                  "<li>Chirurgie vaginale </li>"+
+                  "<li>Cure prolapsus et incontinence urinaire </li>"+
+                  "<li>Hystérectomie </li>"+
+                  "<li>Myoméctomie </li>"+
+                  "<li>Chirurgie bénigne du sein </li>"+
+                  "<li>Stérilisation </li>"+
+                  "<li>Conisation </li>"+
                   "<li>Hystéroscopie </li></ul><br>"+
                 "Gynécologie-obstétricienne, elle se déplace pour les accouchements et pour les opérations chirurgicales à la maternité de Sainte-Foy-Lès-Lyon, basée au 78 chemin de Montray à Sainte-Foy-Lès-Lyon 69110 <br>"+
                 "<h2>Diplômes</h2> "+
@@ -258,15 +258,15 @@
                 "DIU Assistance médicale à la procréation. <br>"+
                 "DIU Colposcopie et pathologies cervico-vaginale. <br>"+
                 "<h2>Honoraires</h2>"+
-                  "<ul><li>CS: 60€</li>  <br>"+
-                  "<li>Echo 1er Trimestre: 100€</li> <br>"+
-                  "<li>Echo 2ème Trimestre 130€</li><br>"+
-                  "<li>Echo 3ème Trimestre 120€</li><br>"+
-                  "<li>Echo Gynécologique 70-80€</li> <br>"+
-                  "<li>Pose Stérilet: 70€</Li><br>"+
-                  "<li>Colposcopie: 70€</li> <br>"+
+                  "<ul><li>CS: 60€</li>"+
+                  "<li>Echo 1er Trimestre: 100€</li> "+
+                  "<li>Echo 2ème Trimestre 130€</li>"+
+                  "<li>Echo 3ème Trimestre 120€</li>"+
+                  "<li>Echo Gynécologique 70-80€</li> "+
+                  "<li>Pose Stérilet: 70€</Li>"+
+                  "<li>Colposcopie: 70€</li></ul> <br>"+
                   "Praticien adhérent à une association de gestion agréée. <br>"+
-                  "Moyens de paiement acceptés: Chèque et Carte Bancaire.</ul>",
+                  "Moyens de paiement acceptés: Chèque et Carte Bancaire.",
               width: 900,
               animation: true,
               showCloseButton: true
@@ -292,7 +292,7 @@
                     "Post-partum et urogénycologique<br>" +
                     "Manuelle et sonde vaginale (biofeedback et électrosimulation)"+
                   "<h3>Sexologie</h3>"+
-                    "Dysfonctions sexuelles de la femme :"+
+                    "Dysfonctions sexuelles de la femme : <br><br>"+
                         "<ul> <li> Troubles du désir, de l'excitation ou du plaisir </li>"+
                         "<li> Vaginisme </li>"+
                         "<li> Dyspareunies </li> </ul><br>"+

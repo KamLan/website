@@ -95,7 +95,7 @@
                   </p>
                   <h1><strong>Préparation à l'accouchement par Marlène Barral</strong></h1>
                   <p>
-                    Accueil Maternité CH Sainte-Foy-Lès Lyon : 04.72.16.86.68
+                    Accueil Maternité CH Sainte-Foy-Lès Lyon : 04.72.16.86.68.
                   </p>
                   <h1><strong>Surveillance de grossesse et du post-partum à domicile par Sage-femme :</strong></h1>
                   <p>
@@ -106,12 +106,12 @@
                     <strong>Grossesse et gynécologie</strong>
                   </h2>
                   <p>
-                    Urgences maternité CH Sainte-Foy-Lès Lyon: 07.72.16.86.05
+                    Service des Urgences, maternité CH Sainte-Foy-Lès Lyon: 07.72.16.86.05.
                   </p>
 
                   <h2><strong>Suites chirugicales du Docteur Jacquots</strong></h2>
                   <p>
-                    Service G1, CHU Lyon Sud: 07.78.86.13.89
+                    Service G1, CHU Lyon Sud: 07.78.86.13.89.
                   </p>
                   <h2><strong>Urgences vitales</strong></h2>
                   <p>
@@ -145,7 +145,7 @@
                     12 chemin de la croix Pivort, 69110, Sainte-Foy-Lès-Lyon.
                   </p>
                   <p>
-                    Cabinet au premier étage sans ascenseur.
+                    Cabinet au premier étage sans ascenseur.<br> Parking privatif à l'arrière du bâtiment (entrée devant la clinique vétérinaire).
                   </p>
                   <h3>Lignes de Bus</h3>
                   <p>

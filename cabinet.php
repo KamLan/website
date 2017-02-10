@@ -89,7 +89,7 @@
                 1 salle d'échographie <br>
                 1 salle d'attente <br>
                 1 secrétariat <br>
-                1 Salle de stérilisation
+                1 salle de stérilisation
               </p>
             </div>
         </div>
@@ -112,7 +112,7 @@
             <div class="col-md-6">
               Appareil de rééducation périnéale Phenix Uro 4. <br>
               Monitoring Edan F6 <br>
-              Utilisation préferentielle de matériel à usage unique. <br>
+              Utilisation préférentielle de matériel à usage unique. <br>
               Si besoin stérilisation par chaleur humide avec stérélisateur Euronda.<br>
             </div>
         </div>

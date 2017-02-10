@@ -98,10 +98,10 @@
                       Les consultations de suivi de grossesse
                     </li>
                     <li>
-                      Les consultations de gynécologie médical et chirurgicale
+                      Les consultations de gynécologie médicale et chirurgicale
                     </li>
                     <li>
-                      Les échographies obstétricale et gynécologiques
+                      Les échographies obstétricales et gynécologiques
                     </li>
                     <li>
                       Les colposcopies
@@ -113,7 +113,7 @@
                       Les consultations de sexologie
                     </li>
                     <li>
-                      La réeducation périnéale
+                      La rééducation périnéale
                     </li>
                   </ul>
               </div>
@@ -125,7 +125,7 @@
               <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" style="color:#E55C5C;">CHU de Lyon-Sud</a>.
             </p>
             <p>
-              La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon. Le suivi à domicile est assuré pour les grossesses pathologique et le retour de la maternité.
+              La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon. Le suivi à domicile est assuré pour les grossesses pathologiques et le retour de la maternité.
             </p>
           </div>
         </div>
