@@ -24,7 +24,7 @@
             <div class="col-sm-9">
               <h2>
                 <strong>
-                  Cabinet de gynecologie, obstétrique et échographie
+                  Cabinet de gynécologie, obstétrique et échographie
                 </strong>
               </h2>
               <h3>
@@ -34,9 +34,9 @@
                 <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-3 blockadresse">
               <h3>
-                12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
+                12 chemin de la Croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
                 <strong>Tel:</strong> 04.78.59.82.51
@@ -66,6 +66,7 @@
                 <li class=""><a href="equipe.php">Equipe médicale</a></li>
                 <li class=""><a href="cabinet.php">Cabinet</a></li>
                 <li class="active"><a href="contact.php">Contact</a></li>
+                <li class=""><a href="access.php">Accès</a></li>
                 <li class=""><a href="information.php">Informations</a></li>
               </ul>
             </div>
@@ -80,17 +81,17 @@
           <div class="row">
             <div class="col-sm-6">
                 <div class="panel-heading">
-                  <h2 class="pagetitle"><strong><img src="img/fax.png" alt="" /> Nous joindre :</strong></h2>
+                  <h2 class="pagetitle"><strong><img src="img/fax.png" alt="" /> NOUS JOINDRE :</strong></h2>
                 </div>
                 <div class="panel-body contactblock">
 
                   <h1><strong>Consultation au cabinet</strong></h1>
                   <h2> <strong>Par téléphone :</strong> </h2>
                   <p>
-                    Prise de rendez-vous au 04.78.59.82.51 assurée par  secrétaires médicales diplomées.
+                    Prise de rendez-vous au 04.78.59.82.51 assurée par deux secrétaires médicales diplomées.
                   </p>
                   <p>
-                    Horaires d'accueil téléphonique du lundi au vendredi de 10h à 12h et de 14h à 18h.
+                    Horaires d'accueil téléphonique du lundi au vendredi de 10h à 17h30.
 
                   </p>
                   <h1><strong>Préparation à l'accouchement par Marlène Barral</strong></h1>
@@ -106,10 +107,10 @@
                     <strong>Grossesse et gynécologie</strong>
                   </h2>
                   <p>
-                    Service des Urgences, maternité CH Sainte-Foy-Lès Lyon: 07.72.16.86.05.
+                    Service des Urgences, maternité CH Sainte-Foy-Lès Lyon: 04.72.16.86.05.
                   </p>
 
-                  <h2><strong>Suites chirugicales du Docteur Jacquots</strong></h2>
+                  <h2><strong>Suites chirugicales du Docteur Jacquot</strong></h2>
                   <p>
                     Service G1, CHU Lyon Sud: 07.78.86.13.89.
                   </p>
@@ -134,28 +135,6 @@
             </div>
             <div class="col-sm-6 contactimg">
               <img src="img\PE.jpg" alt="" />
-            </div>
-            <div class="col-sm-12">
-                <div class="panel-heading">
-                  <h2><strong> <strong><img src="img/maps-and-flags.png" alt="" /> Accès :</strong></h2>
-                </div>
-                <div class="panel-body col-sm-6 col-xs-12">
-                  <h3>Adresse</h3>
-                  <p>
-                    12 chemin de la croix Pivort, 69110, Sainte-Foy-Lès-Lyon.
-                  </p>
-                  <p>
-                    Cabinet au premier étage sans ascenseur.<br> Parking privatif à l'arrière du bâtiment (entrée devant la clinique vétérinaire).
-                  </p>
-                  <h3>Lignes de Bus</h3>
-                  <p>
-                    <img src="img\school-bus.png" alt="" /> Ligne C19 arrêt Sainte-Foy Centre<br>
-                    <img src="img\school-bus.png" alt="" /> Ligne C17 arrêt sainte-Foy Centre
-                  </p>
-                </div>
-                <div class="panel-body col-sm-6 col-xs-12">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.9509877228866!2d4.801712315573599!3d45.732077723549814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebdde053f789%3A0x249166d3c241cf69!2s12+Chemin+de+la+Croix+Pivort%2C+69110+Sainte-Foy-l%C3%A8s-Lyon!5e0!3m2!1sfr!2sfr!4v1477481884890" width="500" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-                </div>
             </div>
           </div>
         </div><br><br>

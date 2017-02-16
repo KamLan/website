@@ -3,9 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Le cabinet de gynecologie, obstétriue et échographie de Sainte Foy_Lès-Lyon" />
-    <meta name="keywords" content="cabinet, gynécologie, gynécologue, obstétrique, échographie, Sainte Foy, Sainte Foy-Lès-Lyon, medecin" />
     <title>Cabinet de gynécologie</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -65,11 +62,11 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="index.php">Accueil</a></li>
+                <li class=""><a href="index.php">Accueil</a></li>
                 <li class=""><a href="equipe.php">Equipe médicale</a></li>
                 <li class=""><a href="cabinet.php">Cabinet</a></li>
                 <li class=""><a href="contact.php">Contact</a></li>
-                <li class=""><a href="access.php">Accès</a></li>
+                <li class="active"><a href="access.php">Accès</a></li>
                 <li class=""><a href="information.php">Informations</a></li>
               </ul>
             </div>
@@ -78,60 +75,36 @@
       </section>
 
     </header>
+    <!-- Contact block -->
 
-    <!-- Home block -->
-    <section>
-      <div class="container col-sm-12 homepage">
-        <div class="">
-          <div class="col-sm-6">
-            <img src="img\home-min.jpg" alt="" />
+        <div class="container backback col-sm-12">
+          <div class="row">
+            <div class="col-sm-12">
+            <div class="col-sm-12">
+                <div class="panel-heading">
+                  <h2 class="pagetitle"><strong> <strong><img src="img/maps-and-flags.png" alt="" /> ACC&Egrave;S :</strong></h2>
+                </div>
+                <div class="panel-body col-sm-6 col-xs-12">
+                  <h3>Adresse</h3>
+                  <p>
+                    12 chemin de la croix Pivort, 69110, Sainte-Foy-Lès-Lyon.
+                  </p>
+                  <p>
+                    Cabinet au premier étage sans ascenseur.<br> Parking privatif à l'arrière du bâtiment (entrée devant la clinique vétérinaire).
+                  </p>
+                  <h3>Lignes de Bus</h3>
+                  <p>
+                    <img src="img\school-bus.png" alt="" /> Ligne C19 arrêt Sainte-Foy Centre<br>
+                    <img src="img\school-bus.png" alt="" /> Ligne C17 arrêt sainte-Foy Centre
+                  </p>
+                </div>
+                <div class="panel-body col-sm-6 col-xs-12">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.9509877228866!2d4.801712315573599!3d45.732077723549814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebdde053f789%3A0x249166d3c241cf69!2s12+Chemin+de+la+Croix+Pivort%2C+69110+Sainte-Foy-l%C3%A8s-Lyon!5e0!3m2!1sfr!2sfr!4v1477481884890" width="500" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+            </div>
           </div>
-          <div class="col-sm-6">
-              <div class="panel-heading">
-                <h2 class="pagetitle"><strong><img src="img/house.png" alt="" />ACCUEIL</strong></h2>
-              </div>
-              <div class="panel-body">
-                <h3></h3>
-                <p>
-                  Le cabinet de gynécologie, obstétrique et échographie des <a href="equipe.php" style="color:#E55C5C;">Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et M. BARRAL sage-femme</a> assurent:
-                  <ul>
-                    <li>
-                      Les consultations de suivi de grossesse
-                    </li>
-                    <li>
-                      Les consultations de gynécologie médicale et chirurgicale
-                    </li>
-                    <li>
-                      Les échographies obstétricales et gynécologiques
-                    </li>
-                    <li>
-                      Les colposcopies
-                    </li>
-                    <li>
-                      L'entretien prénatal
-                    </li>
-                    <li>
-                      Les consultations de sexologie
-                    </li>
-                    <li>
-                      La rééducation périnéale
-                    </li>
-                  </ul>
-              </div>
-          </div>
-          <div class="col-md-12">
-            <p>
-              Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge selon l'opérateur sur le plateau technique du
-              <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" style="color:#E55C5C;">CH de Sainte-Foy-Lès-Lyon</a> ou du
-              <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" style="color:#E55C5C;">CHU de Lyon-Sud</a>.
-            </p>
-            <p>
-              La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon.<br> Le suivi à domicile est assuré pour les grossesses pathologiques et le retour de la maternité.
-            </p>
-          </div>
-        </div>
-      </div><br><br>
-    </section>
+        </div><br><br>
+
 
 
   </body>

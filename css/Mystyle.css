@@ -35,6 +35,10 @@ span.titredoc{
   margin-right:2%;
 }
 
+div.col-sm-3.blockadresse{
+  margin-top:1%;
+}
+
 .topband{
   font-family: 'caviar_dreamsbold';
 }
@@ -144,3 +148,14 @@ button.swal2-confirm.swal2-styled{
 
 
 /*CABINET*/
+
+
+/* Informations */
+
+div.container.informationmeds h3{
+  color: #E55C5C
+}
+
+div.container.informationmeds a{
+  color:black;
+}

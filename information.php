@@ -34,9 +34,9 @@
                 <br> Marlène <strong>BARRAL</strong> Sage-femme
               </h3>
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-3 blockadresse">
               <h3>
-                12 chemin de la croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
+                12 chemin de la Croix Pivort,<br><strong>69110, Sainte-Foy-Lès-Lyon</strong>
               </h3>
               <h3>
                 <strong>Tel:</strong> 04.78.59.82.51
@@ -66,6 +66,7 @@
                 <li class=""><a href="equipe.php">Equipe médicale</a></li>
                 <li class=""><a href="cabinet.php">Cabinet</a></li>
                 <li class=""><a href="contact.php">Contact</a></li>
+                <li class=""><a href="access.php">Accès</a></li>
                 <li class="active"><a href="information.php">Informations</a></li>
               </ul>
             </div>
@@ -77,45 +78,53 @@
 
     <!-- Information block -->
 
-    <div class="container">
+    <div class="container informationmeds">
       <div class="row">
         <div class="col-sm-12">
             <div class="panel-heading">
               <h2 class="pagetitle"><strong><img src="img/information-point.png" alt="" />INFORMATIONS :</strong></h2>
             </div>
             <div class="panel-body col-md-12">
-              <h3> Informations médicales : </h3>
+              <h3> Fiches d'informations médicales : </h3>
               <div class="col-md-6">
                 <p>
-                  <a href="files/Amniocentese.pdf" target="_blank">Informations amniocentèse</a> <br>
-                  <a href="files/fiche_cesarienne.pdf" target="_blank">Informations césarienne prophylactique</a> <br>
-                  <a href="files/dietetique.pdf" target="_blank">Informations diététique</a> <br>
-                  <a href="files/prevention_cytomegalovirus.jpeg" target="_blank">Informations CMV (CytoMégaloVirus)</a> <br>
-                  <a href="files/echographie.pdf" target="_blank">Informations echo</a> <br>
-                  Informations Echo 3D <br>
-                  <a href="files/Frottis_cervical_depistage.pdf" target="_blank">Informations frottis et dépistages</a> <br>
-                  <a href="files/informations_generales.pdf" target="_blank">Informations grossesse</a> <br>
-                  <a href="files/fiche_listeriose.pdf" target="_blank">Informations listériose</a> <br>
+                  <a href="files/Amniocentese.pdf" target="_blank"> amniocentèse</a> <br>
+                  <a href="files/fiche_cesarienne.pdf" target="_blank"> césarienne prophylactique</a> <br>
+                  <a href="files/dietetique.pdf" target="_blank"> diététique</a> <br>
+                  <a href="files/prevention_cytomegalovirus.jpeg" target="_blank"> CMV (CytoMégaloVirus)</a> <br>
+                  <a href="files/echographie.pdf" target="_blank"> echo</a> <br>
+                  <a href="files/Frottis_cervical_depistage.pdf" target="_blank"> dépistages</a> <br>
+                  <a href="files/informations_generales.pdf" target="_blank"> grossesse</a> <br>
                 </p>
               </div>
               <div class="col-md-6">
                 <p>
-                  <a href="files/preparation_naissance.pdf" target="_blank">Informations préparation à la naissance</a> <br>
-                  <a href="files/Presentation_siege.pdf" target="_blank">Informations présentation du siège</a> <br>
-                  <a href="files/information_toxoplasmose.pdf" target="_blank">Informations toxoplasmose</a> <br>
-                  <a href="files/depistage_trisomie21.pdf" target="_blank">Informations dépistage trisomie 21</a> <br>
-                  <a href="files/fiche_uteruscicatriciel.pdf" target="_blank">Informations utérus cicatriciel</a> <br>
-                  <a href="files/info-version-manoeuvres.pdf" target="_blank">Informations version par manoeuvres externes</a> <br>
-                  Plus d'informations : <a href="https://www.aurore-perinat.org/" target="_blank">Site AURORE</a> <br>
-                  Plus d'informations : <a href="http://www.cngof.fr/" target="_blank">Site COLLÈGE NATIONAL DES GYNÉCOLOGUES ET OBSTÉTRICIENS FRANÇAIS (CNGOF)</a>
+                  <a href="files/fiche_listeriose.pdf" target="_blank"> listériose</a> <br>
+                  <a href="files/preparation_naissance.pdf" target="_blank"> préparation à la naissance</a> <br>
+                  <a href="files/Presentation_siege.pdf" target="_blank"> présentation du siège</a> <br>
+                  <a href="files/information_toxoplasmose.pdf" target="_blank"> toxoplasmose</a> <br>
+                  <a href="files/depistage_trisomie21.pdf" target="_blank"> dépistage trisomie 21</a> <br>
+                  <a href="files/fiche_uteruscicatriciel.pdf" target="_blank"> utérus cicatriciel</a> <br>
+                  <a href="files/info-version-manoeuvres.pdf" target="_blank"> version par manoeuvres externes</a> <br>
                 </p>
+              </div> <br>
+            </div>
+            <div class="panel-body col-sm-12">
+              <h3>Plus d'informations médicales</h3>
+              <div class="col-md-12">
+                  <p>
+                    <a href="https://www.aurore-perinat.org/" target="_blank">Site AURORE</a> <br>
+                    <a href="http://www.cngof.fr/" target="_blank">Site COLLÈGE NATIONAL DES GYNÉCOLOGUES ET OBSTÉTRICIENS FRANÇAIS (CNGOF)</a>
+                  </p>
+                <br>
               </div>
-              <br>
               <h3>Informations administratives :</h3>
-              <p>
-                <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" target="_blank">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> <br>
-                <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" target="_blank">Centre Hospitalier Lyon-Sud</a>.
-              </p>
+              <div class="col-md-12">
+                <p>
+                  <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" target="_blank">Centre Hospitalier de Sainte-Foy-Lès-Lyon</a> <br>
+                  <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" target="_blank">Centre Hospitalier Lyon-Sud</a>.
+                </p>
+              </div>
             </div>
         </div>
       </div>

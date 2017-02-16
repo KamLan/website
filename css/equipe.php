@@ -135,7 +135,7 @@
                   "Echographie obstétricale avec agrément pour le depistage de la trisomie 21 <br>"+
                   "Echographie gynécologique <br>"+
                   "Colposcopie <br>"+
-                  "Obstétrique sur le plateau technique du <a style='color: #E55C5C;' href='http://hopital-ste-foy.fr/pole-naissance/index.html'> CH de Sainte-Foy-Lès-Lyon :</a> césarienne programmée - cerclage - curetage - amniocentèse...<br>" +
+                  "Obstétrique sur le plateau technique du <a href='http://hopital-ste-foy.fr/pole-naissance/index.html'> CH de Sainte-Foy-Lès-Lyon :</a> césarienne programmée - cerclage - curetage - amniocentèse...<br>" +
                   ""+
                 "<h2>Diplômes</h2>"+
                   "Diplômé de la Faculté de Médecine de Lyon. <br>"+
@@ -203,7 +203,7 @@
                 "DIU de Périnéologie. <br>"+
                 "Praticien Hospitalier temps partiel depuis 1997. <br>"+
                 "<h2>Honoraires</h2>"+
-                "Médecin conventionné à honoraires libres secteur 2. <br>"+
+                "Médecin conventionné à honoraires libres secteur 2. <br><br>"+
                   "<ul><li>CS: 60€</li>  "+
                   "<li>Echo 1er Trimestre: 100€</li> "+
                   "<li>Echo 2ème Trimestre 130€</li>"+
@@ -258,7 +258,7 @@
                 "DIU Assistance médicale à la procréation. <br>"+
                 "DIU Colposcopie et pathologies cervico-vaginale. <br>"+
                 "<h2>Honoraires</h2>"+
-                "Médecin conventionné à honoraires libres secteur 2. <br>"+
+                "Médecin conventionné à honoraires libres secteur 2. <br><br>"+
                   "<ul><li>CS: 60€</li>"+
                   "<li>Echo 1er Trimestre: 100€</li> "+
                   "<li>Echo 2ème Trimestre 130€</li>"+
@@ -283,7 +283,7 @@
                   "<h3>Grossesses</h3>"+
                     "Suivi des grossesses physiologiques <br>" +
                     "Entretien prénatal<br>"+
-                    "Préparation à la naissance et la parentalité (classique, yoga, sophrologique) sur le plateau technique du <a style='color: #E55C5C;' href='http://hopital-ste-foy.fr/pole-naissance/index.html#3,0'>CH de Sainte-Foy-Lès-Lyon</a> <br>"+
+                    "Préparation à la naissance et la parentalité (classique, yoga, sophrologique) sur le plateau technique du <a href='http://hopital-ste-foy.fr/pole-naissance/index.html#3,0'>CH de Sainte-Foy-Lès-Lyon</a> <br>"+
                     "Suivi à domicile des grossesses pathologiques sur prescription médicale <br>" +
                     "Visite à domicile après retour de la maternité<br>"+
                   "<h3>Gynécologie</h3>"+
@@ -302,7 +302,7 @@
                 "DU de périnéologie <br>"+
                 "DIU de Sexologie en cours de validation<br>" +
                 "<h2>Honoraires</h2> "+
-                  "Sage femme conventionnée <br>"+
+                  "Sage-femme conventionnée <br>"+
                   "<br><ul><li>Consultation: 23€</li> "+
                   "<li>Entretien prénatal: 42€</li> "+
                   "<li>Séance de rééducation périnéale: 19.60€</li> </ul><br>"+
