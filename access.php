@@ -87,7 +87,7 @@
                 <div class="panel-body col-sm-6 col-xs-12">
                   <h3>Adresse</h3>
                   <p>
-                    12 chemin de la croix Pivort, 69110, Sainte-Foy-Lès-Lyon.
+                    12 chemin de la Croix Pivort, 69110, Sainte-Foy-Lès-Lyon.
                   </p>
                   <p>
                     Cabinet au premier étage sans ascenseur.<br> Parking privatif à l'arrière du bâtiment (entrée devant la clinique vétérinaire).
@@ -104,8 +104,9 @@
             </div>
           </div>
         </div><br><br>
+      </div>
 
 
-
-  </body>
-</html>
+      <?php
+        include 'footer.php';
+       ?>

@@ -81,19 +81,19 @@
 
     <!-- Home block -->
     <section>
-      <div class="container col-sm-12 homepage">
+      <div class="container col-lg-12 homepage">
         <div class="">
-          <div class="col-sm-6">
-            <img src="img\home-min.jpg" alt="" />
+          <div class="col-lg-6 col-md-12">
+            <img class="homepageimg" src="img\home-min.jpg" alt="" />
           </div>
-          <div class="col-sm-6">
+          <div class="col-lg-6 col-md-12">
               <div class="panel-heading">
                 <h2 class="pagetitle"><strong><img src="img/house.png" alt="" />ACCUEIL</strong></h2>
               </div>
               <div class="panel-body">
                 <h3></h3>
                 <p>
-                  Le cabinet de gynécologie, obstétrique et échographie des <a href="equipe.php" style="color:#E55C5C;">Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et M. BARRAL sage-femme</a> assurent:
+                  Le cabinet de gynécologie, obstétrique et échographie des <a href="equipe.php" style="color:#E55C5C;">Docteurs G. BARRAL, F. JACQUOT, I. HERGHEA et M. BARRAL sage-femme</a> assure:
                   <ul>
                     <li>
                       Les consultations de suivi de grossesse
@@ -124,15 +124,13 @@
               Les actes d'obstétrique et de chirurgie gynécologique sont pris en charge selon l'opérateur sur le plateau technique du
               <a href="http://hopital-ste-foy.fr/pole-naissance/index.html#3,0" style="color:#E55C5C;">CH de Sainte-Foy-Lès-Lyon</a> ou du
               <a href="http://www.chu-lyon.fr/web/Service_Service%20de%20Chirurgie%20Gyn%C3%A9cologique%20et%20Oncologique%20-%20Obst%C3%A9trique_2345_2393.html" style="color:#E55C5C;">CHU de Lyon-Sud</a>.
-            </p>
-            <p>
-              La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon.<br> Le suivi à domicile est assuré pour les grossesses pathologiques et le retour de la maternité.
+                La préparation à l'accouchement est réalisée dans la salle dédiée du CH de Sainte-Foy-Lès-Lyon. Le suivi à domicile est assuré pour les grossesses pathologiques et le retour de la maternité.
             </p>
           </div>
         </div>
       </div><br><br>
     </section>
 
-
-  </body>
-</html>
+    <?php
+      include 'footer.php';
+     ?>

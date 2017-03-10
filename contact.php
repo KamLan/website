@@ -121,7 +121,7 @@
 
                   <h1><strong>Courriel :</strong></h1>
                   <p>
-                    secretariat@cabinetgyneco.com
+                    <a href="mailto:secretariat@cabinetgyneco.com">secretariat@cabinetgyneco.com</a>
                   </p>
 
                   <h1><strong>Fax :</strong></h1>
@@ -140,6 +140,6 @@
         </div><br><br>
 
 
-
-  </body>
-</html>
+        <?php
+          include 'footer.php';
+         ?>

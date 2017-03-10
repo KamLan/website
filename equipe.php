@@ -128,7 +128,7 @@
                 "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'69/6573 depuis 1983 <br>"+
                 "Membre du Collège Français d'Echographie Foetale section dépistage <br>"+
                 "Adhérent au réseau périnatal Aurore <br>"+
-                "Membre suppléant du conseil départemental de l'Ordre des Medecins du Rhône <br>"+
+                "Membre suppléant du Conseil Départemental de l'Ordre des Medecins du Rhône <br>"+
                 "<h2>Activité</h2>"+
                   "Suivi de grossesse normale et pathologique <br>"+
                   "Gynécologie médicale et contraception <br>"+
@@ -222,7 +222,7 @@
             swal({
               title: 'Dr Irina HERGHEA',
               html:
-              "Chirurgien Gynécologue Obstétricien Accoucheur à l'Hôpital de Sainte-Foy-Lès-Lyon <br>"+
+              "Chirurgien Gynécologue Obstétricien à l'Hôpital de Sainte-Foy-Lès-Lyon <br>"+
               "Inscrit au Tableau du Conseil Départemental de l'Ordre des Médecins du Rhône n'21025 depuis 04/2009 <br>"+
                 "<h2>Activité</h2> "+
                 "<h3>Cabinet :</h3>"+
@@ -246,7 +246,6 @@
                   "<li>Stérilisation </li>"+
                   "<li>Conisation </li>"+
                   "<li>Hystéroscopie </li></ul><br>"+
-                "Gynécologie-obstétricienne, elle se déplace pour les accouchements et pour les opérations chirurgicales à la maternité de Sainte-Foy-Lès-Lyon, basée au 78 chemin de Montray à Sainte-Foy-Lès-Lyon 69110 <br>"+
                 "<h2>Diplômes</h2> "+
                 "Ancien assistant des Hôpitaux de Lyon. <br>"+
                 "Praticien Hospitalier à temps partiel depuis 2011 <br>"+
@@ -283,14 +282,14 @@
                   "<h3>Grossesses</h3>"+
                     "Suivi des grossesses physiologiques <br>" +
                     "Entretien prénatal<br>"+
-                    "Préparation à la naissance et la parentalité (classique, yoga, sophrologique) sur le plateau technique du <a style='color: #E55C5C;' href='http://hopital-ste-foy.fr/pole-naissance/index.html#3,0'>CH de Sainte-Foy-Lès-Lyon</a> <br>"+
+                    "Préparation à la naissance et à la parentalité (classique, yoga, sophrologique) sur le plateau technique du <a style='color: #E55C5C;' href='http://hopital-ste-foy.fr/pole-naissance/index.html#3,0'>CH de Sainte-Foy-Lès-Lyon</a> <br>"+
                     "Suivi à domicile des grossesses pathologiques sur prescription médicale <br>" +
                     "Visite à domicile après retour de la maternité<br>"+
                   "<h3>Gynécologie</h3>"+
                     "Suivi de prévention<br>"+
                     "Contraception<br>"+
                   "<h3>Rééducation périnéale</h3>"+
-                    "du post-partum et uro-gynécologique<br>" +
+                    "Du post-partum et uro-gynécologique<br>" +
                     "Manuelle et avec sonde vaginale (biofeedback et électrosimulation)"+
                   "<h3>Sexologie</h3>"+
                     "Dysfonctions sexuelles de la femme : <br><br>"+
@@ -306,7 +305,7 @@
                   "<br><ul><li>Consultation: 23€</li> "+
                   "<li>Entretien prénatal: 42€</li> "+
                   "<li>Séance de rééducation périnéale: 19.60€</li> </ul><br>"+
-                  "Praticien adhérente à une association de gestion agréée. <br>"+
+                  "Adhérente à une association de gestion agréée. <br>"+
                   "Moyens de paiement acceptés: Chèque et espèces",
               width: 900,
               animation: true,
@@ -319,5 +318,6 @@
       }
     </script>
 
-  </body>
-</html>
+    <?php
+      include 'footer.php';
+     ?>
